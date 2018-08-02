@@ -4,3 +4,8 @@ main:
   url: "/about/"
 - title: Sponsors
   url: "/sponsors/"
+- title: Contact Us
+  url: "/contact/"  
+- title: Issues
+  url: "/issues/"  
+---
