@@ -1,0 +1,14 @@
+---
+label: Medley Generic
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  hidden: true
+  config:
+    required: true
+  label: FICTION
+  description: All writeups to do with fiction
+  name: medley
+pages:
+- _posts/remembering-kargil.md
