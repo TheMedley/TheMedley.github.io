@@ -1,0 +1,40 @@
+---
+label: Articles
+hide_body: false
+is_partial: false
+fields:
+- type: select
+  name: layout
+  config:
+    source:
+      type: datafiles
+      file: _data-layouts-yml
+      path: Layouts
+    required: true
+  label: Layout
+  description: 'Layout describes what type of content page will be seen. '
+  default: posts
+- type: text
+  name: title
+  label: Title
+  description: Title of your post
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Sub-Title
+  description: Sub Title for your post
+- type: textarea
+  name: description
+  label: Description
+  description: Optional, but shows on social media links
+- type: datetime
+  name: date
+  label: Date
+  description: Date-only needed for blog posts
+- type: file
+  name: image
+  label: Image
+  description: Image for social media links cover
+  config:
+    maxSize: '10'
