@@ -25,7 +25,7 @@ fields:
   label: Sub-Title
   description: Sub Title for your post
 - type: textarea
-  name: description
+  name: excerpt
   label: Description
   description: Optional, but shows on social media links
 - type: datetime
