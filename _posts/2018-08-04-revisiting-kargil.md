@@ -2,7 +2,8 @@
 title: Revisiting Kargil
 date: 2018-08-04 05:49:10 +0000
 non_fiction: ''
-author: "/akshat.jpg"
+author:
+- "/akshat.jpg"
 undefined: []
 author_s_bio: Akshat Mayne is a Final Year student of English Literature at Hansraj
   College. Apart from the poetry of Kipling and Tennyson, his interests lie deep in
@@ -12,6 +13,8 @@ author_s_bio: Akshat Mayne is a Final Year student of English Literature at Hans
   has not received its deserved share of acclaim, and through his writing, Akshat
   wishes to promote interest in the subject, and highlight its importance in the field
   of leadership, among others.
+category:
+- Non-Fiction
 
 ---
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world. 
