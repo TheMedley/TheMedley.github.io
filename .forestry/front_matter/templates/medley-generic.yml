@@ -21,6 +21,14 @@ fields:
   label: Author's bio
   config:
     required: true
+- type: file
+  name: author
+  label: Author
+- type: textarea
+  name: author_s_bio
+  label: Author's bio
+  config:
+    required: true
 pages:
 - _posts/2018-08-04-on-the-interconnectedness-of-humanity-nature-and-language.md
 - _posts/love-jihad.md
