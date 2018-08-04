@@ -1,6 +1,6 @@
 ---
 title: 'A Muse Beyond Time: Delhi in Urdu Poetry'
-date: 2018-08-04 12:54:23 +0530
+date: 2018-08-04 07:24:23 +0000
 non_fiction: ''
 author:
 - "/Srishti.jpg"
@@ -10,6 +10,8 @@ author_s_bio: 'Srishti Gupta is pursuing English and is in her final year of gra
 '
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 Delhi has, in essence, been the lynchpin of the entity that is Hindustan. It has been the capital since before India started being invaded by different foreign powers, and consequently, its streets and air reek of history and its vagaries. The generations of poets living in these streets have immortalized them in their creations. Indeed, the tribulations of changing rulers, invasions, sackings, and the simultaneously changing equations of the city among its people have been described movingly in the oeuvres of various poets down the centuries. 
@@ -78,4 +80,4 @@ Notes-
 
 1. _Takhallus_: an Urdu word for nom de plume. A _takhallus_ was often employed by many poets, and it was a word that had a common meaning, because it was customary to incorporate the _takhallus_ in the last _sher_ (couplet) of a _ghazal_. 
 2. _Qita’a_ (Also spelled _Qita_ and _Qata_): A piece of poetry that is a part of a longer form like the _ghazal_ but can also be read independently.
-3. _Saza-e-kala-paani_: Refers to the sentencing of a convict in British India to the Cellular Jail in Andaman and Nicobar Islands, the convict being isolated from the mainland and made to live out his/her life in isolation. According to Indian belief, crossing the _‘kaala paani’_ (literally, black waters), referring to the seas surrounding the Indian peninsula, will result in loss of your social identity, and therefore the isolation becomes not only physical, but also becomes grounded in identity. 
+3. _Saza-e-kala-paani_: Refers to the sentencing of a convict in British India to the Cellular Jail in Andaman and Nicobar Islands, the convict being isolated from the mainland and made to live out his/her life in isolation. According to Indian belief, crossing the _‘kaala paani’_ (literally, black waters), referring to the seas surrounding the Indian peninsula, will result in loss of your social identity, and therefore the isolation becomes not only physical, but also becomes grounded in identity.
