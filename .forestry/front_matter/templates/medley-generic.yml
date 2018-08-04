@@ -12,5 +12,9 @@ fields:
       format: markdown
   hidden: false
   description: ''
+- type: file
+  hidden: false
+  label: Author
+  name: author
 pages:
 - _posts/revisiting-kargil.md
