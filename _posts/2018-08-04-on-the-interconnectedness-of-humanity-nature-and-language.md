@@ -2,12 +2,15 @@
 title: On the Interconnectedness of Humanity, Nature, and Language
 date: 2018-08-04 12:38:42 +0530
 non_fiction: ''
-author: "/Hemakshi.jpg"
+author:
+- "/Hemakshi.jpg"
 author_s_bio: Hemakshi Malik is a physical sciences student at Hansraj College. She
   has lived her entire life in Delhi but has only begun to know it recently.  A budding
   science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative
   writing and photography have created significant value in her life and continue
   to help her break out of her comfort zone.
+category:
+- Non-Fiction
 
 ---
 13\.8 billion years ago, the expansion of a staggeringly hot entity - infinitesimal in size and infinite in density - resulted in a grand cosmic evolution. This Big Bang expansion weaved the very fabric of space and time, leading to the genesis of a phenomenon indispensable to the creation of our macrocosm: the rise of complexity. 
