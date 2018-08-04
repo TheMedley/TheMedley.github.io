@@ -13,6 +13,8 @@ author_s_bio: 'Hemakshi Malik is a physical sciences student at Hansraj College.
 '
 category:
 - Fiction
+layout: single
+categories: fiction
 
 ---
 _This story and its title are both inspired by Shel Silverstein’s_ Where The Sidewalk Ends_._
