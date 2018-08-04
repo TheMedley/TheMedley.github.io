@@ -1,9 +1,9 @@
 ---
 title: On the Interconnectedness of Humanity, Nature, and Language
-date: 2018-08-04 12:38:42 +0530
+date: 2018-08-04 07:08:42 +0000
 non_fiction: ''
 author:
-- "/Hemakshi.jpg"
+- "/Hemakshi 2.PNG"
 author_s_bio: Hemakshi Malik is a physical sciences student at Hansraj College. She
   has lived her entire life in Delhi but has only begun to know it recently.  A budding
   science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative
@@ -59,4 +59,4 @@ Fields such as Eco-linguistics and Eco-criticism aim to bring about this paradig
 
 In all the chaos, we have forgotten to stay attuned to the environment with the cacophony emanating from materialism's loudspeaker. We have forgotten to stand at ease amidst this banal marching of progress. In this increasingly complex world, our ideas have profoundly impacted the environment and us, and the once inexhaustible resources have begun to reach their limit. There is a need, now more than ever, to understand how we as individuals, and collectively as cultures, are associated with nature. 
 
-Our society and language are inextricably connected; one reflects the other. Restructuring the language can help in the realisation that conflict is not the only human response. The resultant renewed consciousness can open the doors to new behaviour, producing a dynamic rhythm of progress with mutual trust and fresh creativity. 
+Our society and language are inextricably connected; one reflects the other. Restructuring the language can help in the realisation that conflict is not the only human response. The resultant renewed consciousness can open the doors to new behaviour, producing a dynamic rhythm of progress with mutual trust and fresh creativity.
