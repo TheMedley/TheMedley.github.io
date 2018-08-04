@@ -2,13 +2,16 @@
 title: Drying Inks and Broken Nibs
 date: 2018-08-04 12:29:24 +0530
 non_fiction: ''
-author: "/Aliza.jpg"
+author:
+- "/Aliza.jpg"
 author_s_bio: 'Aliza Noor is an amateur writer and an occasional artist trying to
   delve into conversations and people, loving life on some days and sailing through
   an existential crisis on another. Mostly very filmy and cracking puns that only
   she laugh at, probably while sipping coffee and petting cats. She likes keeping
   herself and her mind busy but loves nothing more than being in bed with her laptop
   at night. '
+category:
+- Non-Fiction
 
 ---
 These blotches on the paper, the drying ink, the steadiness and firmness of these wrinkled and worn out hands, pouring out their drenched inks and souls to take the shape of the letters their hands so fondly remember, each stroke moulded to suit the whims of the people, go on to create some art, to become that art, to live that art which is slowly dying every day a little at a time. 
