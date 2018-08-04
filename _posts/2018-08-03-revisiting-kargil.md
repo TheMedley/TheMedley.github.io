@@ -2,10 +2,9 @@
 title: Remembering Kargil
 date: 2018-08-03 14:46:26 +0000
 layout: single
+medley: ''
 
 ---
-**Revisiting Kargil**
-
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world.
 
 **The Fog of War**
