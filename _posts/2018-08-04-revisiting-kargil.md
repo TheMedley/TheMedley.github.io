@@ -1,11 +1,22 @@
 ---
-title: Remembering Kargil
-date: 2018-08-03 14:46:26 +0000
-layout: single
+title: Revisiting Kargil
+date: 2018-08-04 05:49:10 +0000
+non_fiction: ''
+author:
+- "/akshat.jpg"
+undefined: []
+author_s_bio: Akshat Mayne is a Final Year student of English Literature at Hansraj
+  College. Apart from the poetry of Kipling and Tennyson, his interests lie deep in
+  Military History. Born to a Third-Generation Indian Army officer, with shelves full
+  of books at home, and the experiences of three generations, on war and conflict,
+  he writes with a deep insight and understanding of the subject. Military Literature
+  has not received its deserved share of acclaim, and through his writing, Akshat
+  wishes to promote interest in the subject, and highlight its importance in the field
+  of leadership, among others.
+category:
+- Non-Fiction
 
 ---
-**\[NON-FICTION\] Akshat Mayne - Revisiting Kargil**
-
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world. 
 
 **The Fog of War**
