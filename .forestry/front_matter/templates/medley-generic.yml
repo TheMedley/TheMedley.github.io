@@ -16,5 +16,10 @@ fields:
   hidden: false
   label: Author
   name: author
+- type: text
+  name: author_s_bio
+  label: Author's bio
+  config:
+    required: true
 pages:
 - _posts/2018-08-04-revisiting-kargil.md
