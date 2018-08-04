@@ -21,6 +21,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/remembering-the-indian-freedom-struggle-movement.md
 - _posts/2018-08-04-caste-in-our-communities.md
 - _posts/2018-08-04-on-the-interconnectedness-of-humanity-nature-and-language.md
 - _posts/2018-08-04-love-jihad.md
