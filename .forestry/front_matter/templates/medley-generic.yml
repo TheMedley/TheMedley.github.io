@@ -1,14 +1,16 @@
 ---
-label: Medley Generic
+label: Non-Fiction
 hide_body: false
 is_partial: false
 fields:
 - type: textarea
-  hidden: true
+  name: non_fiction
+  label: NON_FICTION
   config:
-    required: true
-  label: FICTION
-  description: All writeups to do with fiction
-  name: medley
+    wysiwyg: false
+    schema:
+      format: markdown
+  hidden: false
+  description: ''
 pages:
 - _posts/revisiting-kargil.md
