@@ -3,6 +3,7 @@ title: Editor's Notes
 date: 2018-08-03 14:46:26 +0000
 permalink: /issue1/editors-notes/
 layout: single
+author: editor
  
 ---
 
