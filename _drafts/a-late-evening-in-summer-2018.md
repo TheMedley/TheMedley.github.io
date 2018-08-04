@@ -8,7 +8,8 @@ author_s_bio: 'Srishti Gupta is pursuing English and is in her final year of gra
   A Delhiite, she is an avid reader and Urdu poetry enthusiast.
 
 '
-category: []
+category:
+- Fiction
 
 ---
 Six-thirty on the clock on 11th June saw the sun inching down the horizon, its rays sputtering, spent, like pens running out, leaving thoughts suspended mid-air. The slowly dipping sun found me on the balcony, trying to squeeze in a couple more chapters of a last year Booker-shortlisted, before the darkness drove me inside, much like the mosquitoes which, like the noisy children of a favourite aunt, come with the clouds and the petrichor. A breeze, an unexpected relief, tried to wedge a lock of hair from their perpetual position at the top of my head, resigned to a tight knot against the heat. 
