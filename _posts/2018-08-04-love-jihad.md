@@ -1,6 +1,6 @@
 ---
 title: Love Jihad
-date: 2018-08-04 12:44:42 +0530
+date: 2018-08-04 07:14:42 +0000
 non_fiction: ''
 author:
 - "/Malvika.jpg"
@@ -14,6 +14,8 @@ author_s_bio: "Malvika Jayakumar is a 3rd year English(HONS) student of Hansraj 
   have seeped into the hullabaloo of the already existing chaos of the county. "
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 _The first section of this article by Malvika is a non-partisan take on the alleged insidious conversion campaigns while the second section by Antara is a case study of a particular long-dragged incident which came into the limelight recently._
