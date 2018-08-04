@@ -51,6 +51,7 @@ fields:
   default: blog
 pages:
 - _posts/2018-08-04-transient-summer.md
+- _posts/2018-08-04-drying-inks-and-broken-nibs.md
 - _posts/2018-08-04-untitled.md
 - _posts/2018-08-04-home.md
 - _posts/2018-08-04-on-some-days.md
