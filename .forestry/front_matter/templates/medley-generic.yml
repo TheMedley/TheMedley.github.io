@@ -17,5 +17,3 @@ fields:
   label: Author
   name: author
 - type: tag_list
-pages:
-- _posts/revisiting-kargil.md
