@@ -1,6 +1,6 @@
 ---
 title: Caste in our Communities
-date: 2018-08-04 12:52:26 +0530
+date: 2018-08-04 07:22:26 +0000
 non_fiction: ''
 author:
 - "/Rahul.jpg"
@@ -11,6 +11,8 @@ author_s_bio: "Rahul Chaudhary is a cis-gendered, heterosexual, upper caste, mid
   by his privilige-guilty mind. \n"
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 Caste is perhaps one of the most potent socio-cultural, and hence politico-economic, forces in India. Centuries old, it has governed humans and human activity in homes as well as outside of them, and continues to do so. Coming from a middle class savarna family, I was ignorant of the presence and power of caste in the current day and age. However, it does not take much research to burst this bubble of, often wilfully self-imposed, ignorance. This article is an attempt to outline the insights that I have gathered from my conversations with people from the Dalit and OBC communities. I got into touch with the interviewees through the help of the Indian Institute of Dalit Studies (IIDS).  
@@ -60,4 +62,4 @@ Interviewees were asked if they had any other opinions that they would like to s
 
 * **Final Remarks** 
 
-As absent caste seems to most of us who have never faced caste-based cruelties, as visible and intrusive it seems to those who have faced such oppression. As limited as the sample size is, I feel little doubt in claiming that every interviewee seemed aware of the existence of caste divides in present day an age. A diversity of safeguards, policy decisions and long-term goals seem to be the need of the, rather long and excruciating, hour if we are to hope for caste justice to appear closer to us in reality rather than an unattainable beacon of idealistic hope. 
+As absent caste seems to most of us who have never faced caste-based cruelties, as visible and intrusive it seems to those who have faced such oppression. As limited as the sample size is, I feel little doubt in claiming that every interviewee seemed aware of the existence of caste divides in present day an age. A diversity of safeguards, policy decisions and long-term goals seem to be the need of the, rather long and excruciating, hour if we are to hope for caste justice to appear closer to us in reality rather than an unattainable beacon of idealistic hope.
