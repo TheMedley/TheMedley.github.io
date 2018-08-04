@@ -15,6 +15,8 @@ author_s_bio: Akshat Mayne is a Final Year student of English Literature at Hans
   of leadership, among others.
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world. 
