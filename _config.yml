@@ -19,7 +19,7 @@ title                    : "The Medley"
 title_separator          : "-"
 name                     : "Ostraca"
 description              : "The Medley is Bi-annual Journal of Ostraca, creative writing of Hansraj College."
-url                      : "https://themedley.github.io"
+url                      : "https://themedley.in"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "themedley/themedley.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,7 +95,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-85177250-2"
     anonymize_ip         : # true, false (default)
