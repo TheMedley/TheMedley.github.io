@@ -1,9 +1,11 @@
 ---
 main:
-- title: Mast Head
-  url: "/mast_head/"
+- title: Submissions
+  url: "/submissions/"
 - title: About
   url: "/about/"
+- title: Mast Head
+  url: "/mast_head/"
 - title: Contact Us
   url: "/contact/"
 - title: Issues
