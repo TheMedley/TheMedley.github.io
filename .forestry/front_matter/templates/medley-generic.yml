@@ -21,6 +21,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/caste-in-our-communities.md
 - _posts/2018-08-04-on-the-interconnectedness-of-humanity-nature-and-language.md
 - _posts/2018-08-04-love-jihad.md
 - _posts/2018-08-04-from-cha-to-chai-the-story-of-how-tea-made-inroads-into-the-indian-household.md
