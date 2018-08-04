@@ -4,8 +4,8 @@ main:
   url: "/about/"
 - title: Issues
   url: "/issues/"
-- title: Mast Head
-  url: "/joinus/"
+- title: Masthead
+  url: "/masthead/"
 - title: Submissions
   url: "/submission/"
 - title: Contact Us
