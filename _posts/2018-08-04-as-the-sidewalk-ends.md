@@ -1,9 +1,9 @@
 ---
 title: As The Sidewalk Ends
-date: 2018-08-04 13:12:41 +0530
+date: 2018-08-04 07:42:41 +0000
 non_fiction: ''
 author:
-- "/Hemakshi.jpg"
+- "/Hemakshi 2.PNG"
 author_s_bio: 'Hemakshi Malik is a physical sciences student at Hansraj College. She
   has lived her entire life in Delhi but has only begun to know it recently.  A budding
   science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative
