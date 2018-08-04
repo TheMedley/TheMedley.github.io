@@ -8,6 +8,8 @@ author_s_bio: 'Srishti Gupta is pursuing English and is in her final year of gra
   A Delhiite, she is an avid reader and Urdu poetry enthusiast.
 
 '
+category:
+- Non-Fiction
 
 ---
 Delhi has, in essence, been the lynchpin of the entity that is Hindustan. It has been the capital since before India started being invaded by different foreign powers, and consequently, its streets and air reek of history and its vagaries. The generations of poets living in these streets have immortalized them in their creations. Indeed, the tribulations of changing rulers, invasions, sackings, and the simultaneously changing equations of the city among its people have been described movingly in the oeuvres of various poets down the centuries. 
