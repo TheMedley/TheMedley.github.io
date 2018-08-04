@@ -1,10 +1,11 @@
 ---
 title: Transient Summer
-layout: posts
+layout: single
 date: 2018-08-04 00:00:00 +0000
 subtitle: ''
 excerpt: ''
 image: ''
+categories: poetry
 
 ---
 The village is not the same.
