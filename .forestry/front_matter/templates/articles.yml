@@ -38,5 +38,3 @@ fields:
   description: Image for social media links cover
   config:
     maxSize: '10'
-pages:
-- _posts/remembering-kargil.md
