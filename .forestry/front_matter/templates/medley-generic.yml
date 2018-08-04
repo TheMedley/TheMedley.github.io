@@ -24,6 +24,7 @@ fields:
   name: category
   label: category
 pages:
+- _posts/kolkata.md
 - _posts/2018-08-04-caste-in-our-communities.md
 - _posts/2018-08-04-on-the-interconnectedness-of-humanity-nature-and-language.md
 - _posts/2018-08-04-untitled.md
