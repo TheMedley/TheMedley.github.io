@@ -11,6 +11,8 @@ author_s_bio: Hemakshi Malik is a physical sciences student at Hansraj College. 
   to help her break out of her comfort zone.
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 13\.8 billion years ago, the expansion of a staggeringly hot entity - infinitesimal in size and infinite in density - resulted in a grand cosmic evolution. This Big Bang expansion weaved the very fabric of space and time, leading to the genesis of a phenomenon indispensable to the creation of our macrocosm: the rise of complexity. 
