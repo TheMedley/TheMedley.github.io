@@ -1,11 +1,10 @@
 ---
 main:
+- title: Mast Head
+  url: "/mast_head/"
 - title: About
   url: "/about/"
-- title: Sponsors
-  url: "/sponsors/"
 - title: Contact Us
-  url: "/contact/"  
+  url: "/contact/"
 - title: Issues
-  url: "/issues/"  
----
+  url: "/issues/"
