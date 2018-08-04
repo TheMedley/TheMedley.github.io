@@ -1,6 +1,6 @@
 ---
 title: Remembering the Indian Freedom Struggle Movement
-date: 2018-08-04 12:56:58 +0530
+date: 2018-08-04 07:26:58 +0000
 non_fiction: ''
 author:
 - "/Deepak.jpg"
@@ -13,6 +13,8 @@ author_s_bio: 'Deepak Nain is a Third Year student pursuing an undergraduate deg
 '
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 The story of India’s resistance took different forms at different stages of British expansion. Therefore, revisiting these events serve multiple purposes by helping us draw lessons from the past and look for new heroes that are lost in the cumbersome process of history writing. The movement can be looked at from two sides, the first one involving the old form which regarded the British as usurping foreigners and sincerely believed that they should be swept off the face of India even if through violent means. The other was the new and improved form of resistance inculcated by English education and western ideas which tried to achieve constitutional self-government by a slow progress under the protection of the British. 
