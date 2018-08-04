@@ -16,6 +16,5 @@ fields:
   hidden: false
   label: Author
   name: author
-- type: tag_list
 pages:
 - _posts/2018-08-04-revisiting-kargil.md
