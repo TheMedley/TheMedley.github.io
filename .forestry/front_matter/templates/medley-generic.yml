@@ -12,23 +12,9 @@ fields:
       format: markdown
   hidden: false
   description: ''
-- type: file
-  hidden: false
-  label: Author
+- type: image_gallery
+  label: author
   name: author
-- type: text
-  name: author_s_bio
-  label: Author's bio
-  config:
-    required: true
-- type: file
-  name: author
-  label: Author
-- type: textarea
-  name: author_s_bio
-  label: Author's bio
-  config:
-    required: true
 pages:
 - _posts/2018-08-04-on-the-interconnectedness-of-humanity-nature-and-language.md
 - _posts/love-jihad.md
