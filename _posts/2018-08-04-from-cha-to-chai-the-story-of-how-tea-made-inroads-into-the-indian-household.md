@@ -1,6 +1,6 @@
 ---
 title: 'From Cha to Chai: The Story of how Tea made inroads into the Indian Household'
-date: 2018-08-04 12:42:39 +0530
+date: 2018-08-04 07:12:39 +0000
 non_fiction: ''
 author:
 - "/Divya.jpg"
@@ -13,6 +13,8 @@ author_s_bio: 'KG Divya is a history graduate from Hansraj College, University o
   making and implementation.'
 category:
 - Non-Fiction
+layout: single
+categories: nonfiction
 
 ---
 If you are cold, tea will warm you;  
