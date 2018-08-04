@@ -1,5 +1,5 @@
 ---
-label: Articles
+label: Article Fixed
 hide_body: false
 is_partial: false
 fields:
@@ -38,3 +38,23 @@ fields:
   description: Image for social media links cover
   config:
     maxSize: '10'
+- type: select
+  config:
+    source:
+      type: datafiles
+      file: _data-contenttype-yml
+      path: Contenttype
+    required: true
+  label: Type
+  name: categories
+  description: set type of the content
+  default: blog
+pages:
+- _posts/2018-08-04-transient-summer.md
+- _posts/2018-08-04-on-some-days.md
+- _posts/2018-08-04-home.md
+- _posts/2018-08-04-homecoming.md
+- _posts/2018-08-04-damnation.md
+- _posts/2018-08-04-deaths-collected.md
+- _posts/2018-08-04-my-winter-comes.md
+- _posts/2018-08-04-vignettes-from-a-car-ride.md
