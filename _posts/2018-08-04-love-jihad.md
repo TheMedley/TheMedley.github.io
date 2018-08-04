@@ -12,6 +12,8 @@ author_s_bio: "Malvika Jayakumar is a 3rd year English(HONS) student of Hansraj 
   English Hons. A member of the Creative Writing Society, Ostraca, she pens down her
   views and findings on the highly researched issue of Love Jihad that is said to
   have seeped into the hullabaloo of the already existing chaos of the county. "
+category:
+- Non-Fiction
 
 ---
 _The first section of this article by Malvika is a non-partisan take on the alleged insidious conversion campaigns while the second section by Antara is a case study of a particular long-dragged incident which came into the limelight recently._
