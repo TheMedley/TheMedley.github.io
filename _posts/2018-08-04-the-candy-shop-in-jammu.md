@@ -1,6 +1,6 @@
 ---
 title: The Candy Shop in Jammu
-date: 2018-08-04 13:06:13 +0530
+date: 2018-08-04 07:36:13 +0000
 non_fiction: ''
 author:
 - "/Avishek.jpg"
@@ -9,6 +9,8 @@ author_s_bio: "Avishek Ghosh is a third-year English Honours student at Hansraj 
   movies for his own good. \n"
 category:
 - Fiction
+layout: single
+categories: fiction
 
 ---
 I saw her while I was being diagnosed with dysthymia – a major depressive disorder - at St. Stephen’s Hospital in Gurgaon. Which is kind of ironic in its own right, seeing the facts and details.
@@ -23,4 +25,4 @@ She had been just a little girl back then, with ribbons in her hair and love in 
 
 The thought of going back scared her, but she did, and every time the mysterious man in the empty shop would give her a new item, which would turn into candy whenever she slept, for it was her candy shop, her own place of magical sanctity in the umbrella of misty Jammu. I believed her, there was no reason not to, and I think she noticed that. Then one day, she went to the shop and saw that it was shut, with a closed sign hanging over the entrance, and she stood for hours looking at it, at the sign which was never to be removed. 
 
-She trailed off after that, and her eyes grew listless, and upon regaining focus she looked at me like a stranger, and I realized that she had just forgotten everything she had just told me. Her granddaughter came after a while to pick her up, a pretty, modern girl who had grown up in Gurgaon malls, perhaps still having a little of the same innocence bereft of wonderment in her gait, but that’s just wishful thinking. I never saw her again, and I didn’t want to. 
+She trailed off after that, and her eyes grew listless, and upon regaining focus she looked at me like a stranger, and I realized that she had just forgotten everything she had just told me. Her granddaughter came after a while to pick her up, a pretty, modern girl who had grown up in Gurgaon malls, perhaps still having a little of the same innocence bereft of wonderment in her gait, but that’s just wishful thinking. I never saw her again, and I didn’t want to.
