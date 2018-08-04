@@ -22,6 +22,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-08-04-conspiracy-theories-101.md
 - _posts/2018-08-04-drying-inks-and-broken-nibs.md
 - _posts/2018-08-04-revisiting-kargil.md
+- _posts/2018-08-04-conspiracy-theories-101.md
