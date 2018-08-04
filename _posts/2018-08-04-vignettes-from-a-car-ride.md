@@ -1,10 +1,11 @@
 ---
 title: Vignettes from a Car Ride
-layout: posts
+layout: single
 date: 2018-08-04 00:00:00 +0000
 subtitle: ''
 excerpt: ''
 image: ''
+categories: poetry
 
 ---
 Tearing apart the lull
