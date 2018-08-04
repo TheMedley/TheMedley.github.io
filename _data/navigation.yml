@@ -5,9 +5,8 @@ main:
 - title: Issues
   url: "/issues/"
 - title: Mast Head
-  url: "/joinus/"  
+  url: "/joinus/"
 - title: Submissions
-  url: "/submission/"
+  url: "/submissions/"
 - title: Contact Us
-  url: "/contact/"   
----
+  url: "/contact/"
