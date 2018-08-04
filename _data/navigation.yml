@@ -1,5 +1,7 @@
 ---
 main:
+- title: Contact Us
+  url: "/contact_us/"
 - title: Submissions
   url: "/submissions/"
 - title: About
