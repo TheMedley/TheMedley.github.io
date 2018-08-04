@@ -10,5 +10,3 @@ fields:
   label: FICTION
   description: All writeups to do with fiction
   name: medley
-pages:
-- _posts/2018-08-03-revisiting-kargil.md
