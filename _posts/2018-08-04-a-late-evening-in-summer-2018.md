@@ -1,6 +1,6 @@
 ---
 title: A Late Evening in Summer, 2018
-date: 2018-08-04 13:14:04 +0530
+date: 2018-08-04 07:44:04 +0000
 non_fiction: ''
 author:
 - "/Srishti.jpg"
@@ -10,6 +10,8 @@ author_s_bio: 'Srishti Gupta is pursuing English and is in her final year of gra
 '
 category:
 - Fiction
+layout: single
+categories: fiction
 
 ---
 Six-thirty on the clock on 11th June saw the sun inching down the horizon, its rays sputtering, spent, like pens running out, leaving thoughts suspended mid-air. The slowly dipping sun found me on the balcony, trying to squeeze in a couple more chapters of a last year Booker-shortlisted, before the darkness drove me inside, much like the mosquitoes which, like the noisy children of a favourite aunt, come with the clouds and the petrichor. A breeze, an unexpected relief, tried to wedge a lock of hair from their perpetual position at the top of my head, resigned to a tight knot against the heat. 
@@ -24,4 +26,4 @@ Remembering that monsoon evening almost four years ago, I wander back in the vic
 
 Grandpa and I exchange a grin. I roam around the terrace, sniffing the last jasmine on the lone plant, walking through a puddle of water and leaving mismatched prints on the cement. I tell Grandpa I too am going downstairs. At the door, I turn to look at his hunched, now-frail body, legs thinner than they have ever been. I see him digging up the _rajinigandha_ bulbs, burying them in an empty flowerpot, giving it life. Forty-five years of companionship summed up in an evening. 
 
-I smile, make my way downstairs, enter the house. Mother comes out of a room, and in the midst of a frenzied handing out of chores her voice becomes loud and high- pitched and hysterical; I glance back and see a trail of mismatched, muddy footprints which have ruined her spotless floor. I scramble off to get a mop, inwardly grinning at her compulsive need for cleanliness, before she reaches the subject of grades in her diatribe against my multiple levels of incompetence. 
+I smile, make my way downstairs, enter the house. Mother comes out of a room, and in the midst of a frenzied handing out of chores her voice becomes loud and high- pitched and hysterical; I glance back and see a trail of mismatched, muddy footprints which have ruined her spotless floor. I scramble off to get a mop, inwardly grinning at her compulsive need for cleanliness, before she reaches the subject of grades in her diatribe against my multiple levels of incompetence.
