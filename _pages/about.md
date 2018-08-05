@@ -4,6 +4,7 @@ title: About Us
 permalink: /about/
 breadcrumbs: false
 tags:
+
 ---
 
 # MISSION STATEMENT
@@ -19,7 +20,3 @@ Building able creative writers with a fine sense of articulation, Ostraca has al
 With the mission to propagate the ideas, opinions, and creations of the students of Hansraj in areas such as literature, economics, art, culture, sciences, history, poetry, and politics, Ostraca's batch of 2017 decided to launch an online collaborative journal encompassing the various categories under fiction and nonfiction genres.
 
 With the help of their seniors' vision and vital contribution, the batch of 2018 organised a formal structure for the journal and reflecting on the purpose behind it, named the journal 'The Medley'. Building on the designs of the previous batches, we bring to you Ostraca's online journal, The Medley that incorporates a plethora of subjects and seeks to establish an effective flow of thoughts and ideas between our writers and readers.
-
-# SPONSORS
-
-<a href="https://www.facebook.com/pixectra/?fref=mentions" target="_blank"><img src="/assets/img/spon_pixectra.jpg"></a>

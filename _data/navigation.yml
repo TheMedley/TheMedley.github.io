@@ -6,7 +6,10 @@ main:
   url: "/issues/"
 - title: Masthead
   url: "/masthead/"
+- title: Our Sponsors
+  url: "/sopnsors/"  
 - title: Submissions
   url: "/submission/"
 - title: Contact Us
   url: "/contact/"
+
