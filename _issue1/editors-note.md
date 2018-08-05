@@ -1,7 +1,7 @@
 ---
-title: Editors' Notes
+title: Editors' Note
 date: 2018-08-03 14:46:26 +0000
-permalink: /issue1/editors-notes/
+permalink: /issue1/editors-note/
 layout: single
 author: editor
  
