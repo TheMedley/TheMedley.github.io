@@ -82,7 +82,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "ostracahrc"
   app_id                 :
   publisher              :
 og_image                 : "https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/ostraca.jpg" # Open Graph/Twitter default site image
