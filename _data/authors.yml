@@ -1,5 +1,5 @@
 ---
-author:
+editor:
   name: Editorial Team - The Medley
   avatar: 
   bio: The Medley is the bi-annual journal of Ostraca - The Creative Writing Society of Hansraj College
@@ -14,6 +14,73 @@ author:
   twitter: 
   vine: 
   youtube: 
-  google_plus:
+  google_plus: 
+
+# Non Fiction writers
+KG Divya:
+  name: KG Divya
+  avatar: /assets/img/Divya.jpg
+  bio: KG Divya is a history graduate from Hansraj College, University of Delhi. She has interned with the National Museum in Delhi, and Indian Traditions and Heritage Society (ITIHAAS), and co-authored Power and Piety: The Unheard Voices (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve around liberal arts, writing and the application of history for understanding cultures, religions and identities. She is currently hoping to pursue a career in public policy making and implementation.
+  
+Akshat Mayne:
+  name: Akshat Mayne
+  avatar: ./akshat.jpg
+  bio: Akshat Mayne is a Final Year student of English Literature at Hansraj College. Apart from the poetry of Kipling and Tennyson, his interests lie deep in Military History. Born to a Third-Generation Indian Army officer, with shelves full of books at home, and the experiences of three generations, on war and conflict, he writes with a deep insight and understanding of the subject. Military Literature has not received its deserved share of acclaim, and through his writing, Akshat wishes to promote interest in the subject, and highlight its importance in the field of leadership, among others.
+  
+Aliza Noor:
+  name: Aliza Noor
+  avatar: ./Aliza.jpg
+  bio: Aliza Noor is an amateur writer and an occasional artist trying to delve into conversations and people, loving life on some days and sailing through an existential crisis on another. Mostly very filmy and cracking puns that only she laugh at, probably while sipping coffee and petting cats. She likes keeping herself and her mind busy but loves nothing more than being in bed with her laptop at night.
+  
+Chitra Rajpal:
+  name: Chitra Rajpal
+  avatar: ./Chitra.jpg
+  bio: Chitra Rajpal is a 3rd year undergraduate student pursuing history. This social butterfly believes in seeing something good in everything. Leave it to her to suggest you great music. Her welcoming personality, positivity and chatty nature define her best. She finds comfort in salads as her meals, loves to fangirl over John Mayer, and wants to pet every dog that she comes across.
+  
+Deepak Nain:
+  name: Deepak Nain
+  avatar: ./Deepak.jpg
+  bio: Deepak Nain is a Third Year student pursuing an undergraduate degree in history. His interests lie in Indian history, contemporary politics and foreign policy. He is a passionate reader and a proponent of liberal ideas who believes firmly in historical revisionism using dynamic tools and methods for historical reconstruction.
+  
+Hemakshi Malik:
+  name: Hemakshi Malik
+  avatar: ./Hemakshi.PNG
+  bio: Hemakshi Malik is a physical sciences student at Hansraj College. She has lived her entire life in Delhi but has only begun to know it recently. A budding science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative writing and photography have created significant value in her life and continue to help her break out of her comfort zone.
+  
+Rahul Chaudhary:
+  name: Rahul Chaudhary
+  avatar: ./Rahul.jpg
+  bio: Rahul Chaudhary is a cis-gendered, heterosexual, upper caste, middle class male who has had privilege fed to him for lunch since the past 20 years or so. Yet, by some fortunate accident, he happened to develop some amount of basic human decency needed to look beyond his, um, “issues.” Here is an article spawned by his privilige-guilty mind.
+  
+Srishti Gupta:
+  name: Srishti Gupta
+  avatar: ./Srishti.jpg
+  bio: Srishti Gupta is pursuing English and is in her final year of graduation. A Delhiite, she is an avid reader and Urdu poetry enthusiast.
+  
+Malvika Jayakumar:
+  name: Malvika Jayakumar
+  avatar: ./Malvika.jpg
+  bio: Malvika Jayakumar is a 3rd year English (Hons) student of Hansraj College who is also pursuing a Certificate Course in German. Her keen interests include politics, history, creative writing, painting, travelling and watching movies.
+  
+Antara Agarwal:
+  name: Antara Agarwal
+  avatar: ./Antara.jpg
+  bio: Antara Agarwal, a student of Hansraj College, is currently in her third year of pursuing English
+Hons. A member of the Creative Writing Society, Ostraca, she pens down her views and findings on
+the highly researched issue of Love Jihad that is said to have seeped into the hullabaloo of the
+already existing chaos of the county.
+  
+
+# Fiction writers
+nameid:
+  name: 
+  avatar:
+  bio: 
+  
+# Poetry writers
+nameid:
+  name: 
+  avatar:
+  bio:   
 ---  
   
