@@ -3,7 +3,13 @@ main:
 - title: About
   url: "/about/"
 - title: Issues
-  url: "/issues/"
+  children:
+    title: Issue One
+    children:
+      title: Editors Note
+      title: Fiction
+      title: Poetry
+      title: Non-Fiction
 - title: Masthead
   url: "/masthead/"
 - title: Our Sponsors
