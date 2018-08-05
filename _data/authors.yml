@@ -20,7 +20,7 @@ editor:
 KG Divya:
   name: KG Divya
   avatar: /assets/img/Divya.jpg
-  bio: KG Divya is a history graduate from Hansraj College, University of Delhi. She has interned with the National Museum in Delhi, and Indian Traditions and Heritage Society (ITIHAAS), and co-authored Power and Piety: The Unheard Voices (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve around liberal arts, writing and the application of history for understanding cultures, religions and identities. She is currently hoping to pursue a career in public policy making and implementation.
+  bio: KG Divya is a history graduate from Hansraj College, University of Delhi. She has interned with the National Museum in Delhi, and Indian Traditions and Heritage Society (ITIHAAS), and co-authored Power and Piety- The Unheard Voices (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve around liberal arts, writing and the application of history for understanding cultures, religions and identities. She is currently hoping to pursue a career in public policy making and implementation.
   
 Akshat Mayne:
   name: Akshat Mayne
@@ -72,11 +72,27 @@ already existing chaos of the county.
   
 
 # Fiction writers
-nameid:
-  name: 
-  avatar:
-  bio: 
+Anasuya Borah:
+  name: Anasuya Borah
+  avatar: ./Anasuya.jpg
+  bio: Anasuya Borah is a graduate from Hansraj College, University of Delhi in Biological Sciences, and pursuing a Masters in Liberal Arts in Ambedkar University. She has a penchant for writing, dancing, debating and doing work that helps animals and humans in distress. She loves to sketch and sit at her writing desk, waiting for hours for a muse until she dozes off, but dreams are stories unwritten and she might as well enjoy it while she can.
+
+Avishek Ghosh:
+  name: Avishek Ghosh
+  avatar: ./Avishek.jpg
+  bio: Avishek Ghosh is a third-year English Honours student at Hansraj College, University of Delhi. He frequently dabbles in magical realism, and watches too many movies for his own good.
   
+Aaryaka Nidhi:
+  name: Aaryaka Nidhi
+  avatar: ./Aaryaka.jpg
+  bio: Aaryaka Nidhi is a third year literature student at Hansraj College. In her writing, she paints cities within indistinct boundaries, spilling colours that mix and match, curling up in places that make them look like they belong there. Otherwise, she is generally busy spending time with and singing songs to her favourite dogs in college. She also believes that a can of Coke and a packet of blue Lays are the things that will eventually help us attain world peace.
+  
+Anshuman Yadav:
+  name: Anshuman Yadav
+  avatar: ./Anshuman.jpg
+  bio: Anshuman Yadav grew up in Delhi, India. He is pursuing English Honours from Hansraj College, University of Delhi and is in his final year. He is an avid reader and a cinephile.
+  
+
 # Poetry writers
 nameid:
   name: 
