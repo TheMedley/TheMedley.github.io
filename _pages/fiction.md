@@ -1,8 +1,8 @@
 ---
-title: Issue One
-permalink: /issue1/
+title: Fiction
+permalink: /issue1/fiction
 layout: category
-taxonomy: issue1
+taxonomy: fiction
 entries_layout: list
 classes: wide
 

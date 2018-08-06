@@ -1,8 +1,8 @@
 ---
 title: Issue One
-permalink: /issue1/
-layout: category
-taxonomy: issue1
+permalink: /issues/
+layout: collection
+collection: issue1
 entries_layout: list
 classes: wide
 

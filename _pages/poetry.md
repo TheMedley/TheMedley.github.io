@@ -1,8 +1,8 @@
 ---
-title: Issue One
-permalink: /issue1/
+title: Poetry
+permalink: /issue1/poetry/
 layout: category
-taxonomy: issue1
+taxonomy: poetry
 entries_layout: list
 classes: wide
 

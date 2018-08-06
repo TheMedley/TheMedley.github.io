@@ -4,6 +4,8 @@ date: 2018-08-04 07:14:42 +0000
 category: [ issue1, nonfiction ]
 author: Malvika Jayakumar
 layout: single
+sidebar:
+  - author: Antara Agarwal
 
 ---
 _The first section of this article by Malvika is a non-partisan take on the alleged insidious conversion campaigns while the second section by Antara is a case study of a particular long-dragged incident which came into the limelight recently._
