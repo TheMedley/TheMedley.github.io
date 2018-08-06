@@ -1,11 +1,11 @@
 ---
-title: Remembering Kargil
-date: 2018-08-03 14:46:26 +0000
+title: Revisiting Kargil
+date: 2018-08-04 05:49:10 +0000
+author: Akshat Mayne
+category: [ issue1, nonfiction ]
 layout: single
 
 ---
-**\[NON-FICTION\] Akshat Mayne - Revisiting Kargil**
-
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world. 
 
 **The Fog of War**
