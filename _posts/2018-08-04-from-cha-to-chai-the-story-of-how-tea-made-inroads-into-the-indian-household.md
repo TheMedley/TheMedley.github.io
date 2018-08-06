@@ -1,20 +1,9 @@
 ---
 title: 'From Cha to Chai: The Story of how Tea made inroads into the Indian Household'
 date: 2018-08-04 07:12:39 +0000
-non_fiction: ''
-author:
-- "/Divya.jpg"
-author_s_bio: 'KG Divya is a history graduate from Hansraj College, University of
-  Delhi. She has interned with the National Museum in Delhi, and Indian Traditions
-  and Heritage Society (ITIHAAS), and co-authored Power and Piety: The Unheard Voices
-  (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve
-  around liberal arts, writing and the application of history for understanding cultures,
-  religions and identities. She is currently hoping to pursue a career in public policy
-  making and implementation.'
-category:
-- Non-Fiction
+author: KG Divya
 layout: single
-categories: nonfiction
+category: [ issue1, nonfiction ]
 
 ---
 If you are cold, tea will warm you;  

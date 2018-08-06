@@ -1,17 +1,9 @@
 ---
 title: 'A Muse Beyond Time: Delhi in Urdu Poetry'
 date: 2018-08-04 07:24:23 +0000
-non_fiction: ''
-author:
-- "/Srishti.jpg"
-author_s_bio: 'Srishti Gupta is pursuing English and is in her final year of graduation.
-  A Delhiite, she is an avid reader and Urdu poetry enthusiast.
-
-'
-category:
-- Non-Fiction
+author: Srishti Gupta
 layout: single
-categories: nonfiction
+category: [ issue1, nonfiction ]
 subtitle: ''
 excerpt: ''
 image: ''
@@ -19,7 +11,7 @@ image: ''
 ---
 Delhi has, in essence, been the lynchpin of the entity that is Hindustan. It has been the capital since before India started being invaded by different foreign powers, and consequently, its streets and air reek of history and its vagaries. The generations of poets living in these streets have immortalized them in their creations. Indeed, the tribulations of changing rulers, invasions, sackings, and the simultaneously changing equations of the city among its people have been described movingly in the oeuvres of various poets down the centuries.
 
-No discussion about Delhi and Urdu poetry can be started without the mention of the poet who is perhaps the biggest romancer of this city, Mir Taqi Mir, who used to go by his _takhallus_1 ‘Mir’. Mir lived and wrote in the 18th century, and called Delhi his home, even though he was born in Agra and died in Lucknow. He lived in Delhi for about half a century, in the heart of the Old City, and his love for the city is visible in his poetry, at times subtle, and at others explicit, praising its walls, its people and its charm. It can be seen  in the following couplet -
+No discussion about Delhi and Urdu poetry can be started without the mention of the poet who is perhaps the biggest romancer of this city, Mir Taqi Mir, who used to go by his _takhallus_<sup>1</sup> ‘Mir’. Mir lived and wrote in the 18th century, and called Delhi his home, even though he was born in Agra and died in Lucknow. He lived in Delhi for about half a century, in the heart of the Old City, and his love for the city is visible in his poetry, at times subtle, and at others explicit, praising its walls, its people and its charm. It can be seen  in the following couplet -
 
 _“Dilli ke naa thay kooche auraaq-e-musavvar thay,_
 
@@ -61,13 +53,13 @@ _“Ek roz apni rooh se poochha ke dilli kya hai, to yun jawaab mein keh gayi, y
 
 For Zafar, however, Delhi emerged as a muse out of a need to oppose the British invasion in the only way he could - words. Delhi signified his homeland for him, and hence Zafar wrote numerous compositions extolling Delhi for what it was and lamenting what it has become under the foreign occupancy. Zafar’s poetry and those of other poets of his time like Ghalib, Zauq and Momin became a rallying point for the people’s discontent.
 
-In one of his poignant compositions, a _qita’a2_, Zafar cries for his beloved city –
+In one of his poignant compositions, a _qita’a_<sup>2</sup>, Zafar cries for his beloved city –
 
 _‘‘Nahin haal-e-Dilli sunaane ke kaabil, ye kissa hai rone aur rulaane ke kaabil, ujaade looteron ne wo mehel iske, jo thay dekhne aur dikhaane ke kaabil, naa ghar hai naa dar hai raha ek Zafar hai, fakat haal-e-Dilli sunaane ke kaabil.’’_
 
 \(The condition of Delhi is not worth narrating, Delhi’s story is fit for making one cry. Vandals have uprooted its castles, which were worth seeing and appreciating. There are no homes, no temples, nothing. Only Zafar remains, to sing the woes of Delhi)
 
-The most touching of his poetry is written when he was sentenced to _saza-e-kaala-paani3_ at Rangoon, where he ultimately died, away from his homeland -
+The most touching of his poetry is written when he was sentenced to _saza-e-kaala-paani_<sup>3</sup> at Rangoon, where he ultimately died, away from his homeland -
 
 _“Kitna hai badnaseeb Zafar dafan ke liye,_
 

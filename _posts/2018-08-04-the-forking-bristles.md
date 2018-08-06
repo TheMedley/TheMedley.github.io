@@ -1,18 +1,9 @@
 ---
 title: The Forking Bristles
 date: 2018-08-04 07:41:10 +0000
-non_fiction: ''
-author:
-- "/Anshuman.jpg"
-author_s_bio: 'Anshuman Yadav grew up in Delhi, India. He is pursuing English Honours
-  from Hansraj College, University of Delhi and is in his final year. He is an avid
-  reader and a cinephile.
-
-'
-category:
-- Fiction
+author: Anshuman Yadav
 layout: single
-categories: fiction
+category: [ issue1, fiction ]
 
 ---
 _The piece tries to interlace the narrative of Bertha Mason from Charlotte Brontë's ‘Jane Eyre' with that of a young, married woman. The latter is set in the present day._

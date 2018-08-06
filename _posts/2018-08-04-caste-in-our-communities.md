@@ -1,18 +1,9 @@
 ---
 title: Caste in our Communities
 date: 2018-08-04 07:22:26 +0000
-non_fiction: ''
-author:
-- "/Rahul.jpg"
-author_s_bio: "Rahul Chaudhary is a cis-gendered, heterosexual, upper caste, middle
-  class male who has had privilege fed to him for lunch since the past 20 years or
-  so. Yet, by some fortunate accident, he happened to develop some amount of basic
-  human decency needed to look beyond his, um, “issues.” Here is an article spawned
-  by his privilige-guilty mind. \n"
-category:
-- Non-Fiction
+author: Rahul Chaudhary
+category: [ issue1, nonfiction ]
 layout: single
-categories: nonfiction
 
 ---
 Caste is perhaps one of the most potent socio-cultural, and hence politico-economic, forces in India. Centuries old, it has governed humans and human activity in homes as well as outside of them, and continues to do so. Coming from a middle class savarna family, I was ignorant of the presence and power of caste in the current day and age. However, it does not take much research to burst this bubble of, often wilfully self-imposed, ignorance. This article is an attempt to outline the insights that I have gathered from my conversations with people from the Dalit and OBC communities. I got into touch with the interviewees through the help of the Indian Institute of Dalit Studies (IIDS).  

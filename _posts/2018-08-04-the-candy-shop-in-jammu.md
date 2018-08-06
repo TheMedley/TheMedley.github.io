@@ -1,16 +1,10 @@
 ---
 title: The Candy Shop in Jammu
 date: 2018-08-04 07:36:13 +0000
-non_fiction: ''
-author:
-- "/Avishek.jpg"
-author_s_bio: "Avishek Ghosh is a third-year English Honours student at Hansraj College,
-  University of Delhi. He frequently dabbles in magical realism, and watches too many
-  movies for his own good. \n"
-category:
-- Fiction
+author: Avishek Ghosh
+category: [ issue1, fiction ]
 layout: single
-categories: fiction
+
 
 ---
 I saw her while I was being diagnosed with dysthymia – a major depressive disorder - at St. Stephen’s Hospital in Gurgaon. Which is kind of ironic in its own right, seeing the facts and details.

@@ -1,22 +1,12 @@
 ---
 title: Drying Inks and Broken Nibs
 date: 2018-08-04 06:59:24 +0000
-non_fiction: ''
-author:
-- "/Aliza.jpg"
-author_s_bio: 'Aliza Noor is an amateur writer and an occasional artist trying to
-  delve into conversations and people, loving life on some days and sailing through
-  an existential crisis on another. Mostly very filmy and cracking puns that only
-  she laugh at, probably while sipping coffee and petting cats. She likes keeping
-  herself and her mind busy but loves nothing more than being in bed with her laptop
-  at night. '
-category:
-- Non-Fiction
-layout: single
-categories: nonfiction
+category: [ issue1, nonfiction ]
+author: Aliza Noor
+layout: singletion
 subtitle: ''
 excerpt: ''
-image: "/Drying Ink 1.jpg"
+image: "/assets/img/Drying Ink 1.jpg"
 
 ---
 These blotches on the paper, the drying ink, the steadiness and firmness of these wrinkled and worn out hands, pouring out their drenched inks and souls to take the shape of the letters their hands so fondly remember, each stroke moulded to suit the whims of the people, go on to create some art, to become that art, to live that art which is slowly dying every day a little at a time.
@@ -47,4 +37,4 @@ He promised me he’d write my name, my parent’s name, and a shayari as I thou
 
 Where: Urdu Bazaar, beginning of the lane in front of Jama Masjid
 
-We all sit in our homes, scrolling through Facebook and Instagram, marvelling at videos of artists fancying calligraphy with their various nibs and inks, and here are some people trying to preserve the same in its purest form, a stroke at a time.
+We all sit in our homes, scrolling through Facebook and Instagram, marvelling at videos of artists fancying calligraphy with their various nibs and inks, and here are some people trying to preserve the same in its purest form, a stroke at a time. 

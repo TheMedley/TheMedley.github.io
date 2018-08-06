@@ -1,18 +1,9 @@
 ---
 title: Conspiracy Theories 101
 date: 2018-08-04 07:03:55 +0000
-non_fiction: ''
-author:
-- "/Chitra.jpg"
-author_s_bio: Chitra Rajpal is a 3rd year undergraduate student pursuing history.
-  This social butterfly believes in seeing something good in everything. Leave it
-  to her to suggest you great music. Her welcoming personality, positivity and chatty
-  nature define her best. She finds comfort in salads as her meals, loves to fangirl
-  over John Mayer, and wants to pet every dog that she comes across.
-category:
-- Non-Fiction
+category: [ issue1, nonfiction ]
+author: Chitra Rajpal
 layout: single
-categories: nonfiction
 
 ---
 Conspiracy theories have been a part of our culture for a little more than a century now. For some, they are a tool of comprehending the veiled reality which serves to provide an alternate explanation to any significant situation or event, for others, it might simply be about tracing lesser known parallels and patterns between seemingly unrelated ideas. While the earliest usage of the term dates back to the late 18th century, conspiracy theory as a concept gained momentum only in the later decades of the 19th century. While tracing the historiography and cultural usage of the concept, one cannot help but notice the swift transition that occurred in the very understanding of the nature of conspiracy theories. Till the middle of the 19th century, conspiracy theory as a term had a neutral, non-partisan connotation to it. It is interesting and quite amusing to observe that its understanding in a contrasting nature was triggered by a conspiracy theory itself, which was popularized in the 1960s. The theory stated that the term conspiracy theory was actually ‘invented by the CIA in order to prevent disbelief of official government stories.’

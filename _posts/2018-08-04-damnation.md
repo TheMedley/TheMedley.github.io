@@ -5,7 +5,8 @@ date: 2018-08-04 00:00:00 +0000
 subtitle: ''
 excerpt: ''
 image: ''
-categories: poetry
+category: [ issue1, poetry ]
+author: Annika Amber
 
 ---
 No, my nightmares don't revolve around ghosts and spirits.  

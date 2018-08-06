@@ -20,51 +20,51 @@ editor:
 KG Divya:
   name: KG Divya
   avatar: /assets/img/Divya.jpg
-  bio: KG Divya is a history graduate from Hansraj College, University of Delhi. She has interned with the National Museum in Delhi, and Indian Traditions and Heritage Society (ITIHAAS), and co-authored Power and Piety: The Unheard Voices (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve around liberal arts, writing and the application of history for understanding cultures, religions and identities. She is currently hoping to pursue a career in public policy making and implementation.
+  bio: KG Divya is a history graduate from Hansraj College, University of Delhi. She has interned with the National Museum in Delhi, and Indian Traditions and Heritage Society (ITIHAAS), and co-authored Power and Piety- The Unheard Voices (The Sanskrit Inscriptions and Coins of Delhi Sultanate). Her interests revolve around liberal arts, writing and the application of history for understanding cultures, religions and identities. She is currently hoping to pursue a career in public policy making and implementation.
   
 Akshat Mayne:
   name: Akshat Mayne
-  avatar: ./akshat.jpg
+  avatar: /assets/img/akshat.jpg
   bio: Akshat Mayne is a Final Year student of English Literature at Hansraj College. Apart from the poetry of Kipling and Tennyson, his interests lie deep in Military History. Born to a Third-Generation Indian Army officer, with shelves full of books at home, and the experiences of three generations, on war and conflict, he writes with a deep insight and understanding of the subject. Military Literature has not received its deserved share of acclaim, and through his writing, Akshat wishes to promote interest in the subject, and highlight its importance in the field of leadership, among others.
   
 Aliza Noor:
   name: Aliza Noor
-  avatar: ./Aliza.jpg
+  avatar: /assets/img/Aliza.jpg
   bio: Aliza Noor is an amateur writer and an occasional artist trying to delve into conversations and people, loving life on some days and sailing through an existential crisis on another. Mostly very filmy and cracking puns that only she laugh at, probably while sipping coffee and petting cats. She likes keeping herself and her mind busy but loves nothing more than being in bed with her laptop at night.
   
 Chitra Rajpal:
   name: Chitra Rajpal
-  avatar: ./Chitra.jpg
+  avatar: /assets/img/Chitra.jpg
   bio: Chitra Rajpal is a 3rd year undergraduate student pursuing history. This social butterfly believes in seeing something good in everything. Leave it to her to suggest you great music. Her welcoming personality, positivity and chatty nature define her best. She finds comfort in salads as her meals, loves to fangirl over John Mayer, and wants to pet every dog that she comes across.
   
 Deepak Nain:
   name: Deepak Nain
-  avatar: ./Deepak.jpg
+  avatar: /assets/img/Deepak.jpg
   bio: Deepak Nain is a Third Year student pursuing an undergraduate degree in history. His interests lie in Indian history, contemporary politics and foreign policy. He is a passionate reader and a proponent of liberal ideas who believes firmly in historical revisionism using dynamic tools and methods for historical reconstruction.
   
 Hemakshi Malik:
   name: Hemakshi Malik
-  avatar: ./Hemakshi.PNG
+  avatar: /assets/img/Hemakshi.PNG
   bio: Hemakshi Malik is a physical sciences student at Hansraj College. She has lived her entire life in Delhi but has only begun to know it recently. A budding science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative writing and photography have created significant value in her life and continue to help her break out of her comfort zone.
   
 Rahul Chaudhary:
   name: Rahul Chaudhary
-  avatar: ./Rahul.jpg
+  avatar: /assets/img/Rahul.jpg
   bio: Rahul Chaudhary is a cis-gendered, heterosexual, upper caste, middle class male who has had privilege fed to him for lunch since the past 20 years or so. Yet, by some fortunate accident, he happened to develop some amount of basic human decency needed to look beyond his, um, “issues.” Here is an article spawned by his privilige-guilty mind.
   
 Srishti Gupta:
   name: Srishti Gupta
-  avatar: ./Srishti.jpg
+  avatar: /assets/img/Srishti.jpg
   bio: Srishti Gupta is pursuing English and is in her final year of graduation. A Delhiite, she is an avid reader and Urdu poetry enthusiast.
   
 Malvika Jayakumar:
   name: Malvika Jayakumar
-  avatar: ./Malvika.jpg
+  avatar: /assets/img/Malvika.jpg
   bio: Malvika Jayakumar is a 3rd year English (Hons) student of Hansraj College who is also pursuing a Certificate Course in German. Her keen interests include politics, history, creative writing, painting, travelling and watching movies.
   
 Antara Agarwal:
   name: Antara Agarwal
-  avatar: ./Antara.jpg
+  avatar: /assets/img/Antara.jpg
   bio: Antara Agarwal, a student of Hansraj College, is currently in her third year of pursuing English
 Hons. A member of the Creative Writing Society, Ostraca, she pens down her views and findings on
 the highly researched issue of Love Jihad that is said to have seeped into the hullabaloo of the
@@ -72,45 +72,61 @@ already existing chaos of the county.
   
 
 # Fiction writers
-nameid:
-  name: 
-  avatar:
-  bio: 
+Anasuya Borah:
+  name: Anasuya Borah
+  avatar: /assets/img/Anasuya.jpg
+  bio: Anasuya Borah is a graduate from Hansraj College, University of Delhi in Biological Sciences, and pursuing a Masters in Liberal Arts in Ambedkar University. She has a penchant for writing, dancing, debating and doing work that helps animals and humans in distress. She loves to sketch and sit at her writing desk, waiting for hours for a muse until she dozes off, but dreams are stories unwritten and she might as well enjoy it while she can.
+
+Avishek Ghosh:
+  name: Avishek Ghosh
+  avatar: /assets/img/Avishek.jpg
+  bio: Avishek Ghosh is a third-year English Honours student at Hansraj College, University of Delhi. He frequently dabbles in magical realism, and watches too many movies for his own good.
   
+Aaryaka Nidhi:
+  name: Aaryaka Nidhi
+  avatar: /assets/img/Aaryaka.jpg
+  bio: Aaryaka Nidhi is a third year literature student at Hansraj College. In her writing, she paints cities within indistinct boundaries, spilling colours that mix and match, curling up in places that make them look like they belong there. Otherwise, she is generally busy spending time with and singing songs to her favourite dogs in college. She also believes that a can of Coke and a packet of blue Lays are the things that will eventually help us attain world peace.
+  
+Anshuman Yadav:
+  name: Anshuman Yadav
+  avatar: /assets/img/Anshuman.jpg
+  bio: Anshuman Yadav grew up in Delhi, India. He is pursuing English Honours from Hansraj College, University of Delhi and is in his final year. He is an avid reader and a cinephile.
+  
+
 # Poetry writers
 Suyashi Smridhi:
   name: Suyashi Smridhi
-  avatar: ./Suyashi.jpg
+  avatar: /assets/img/Suyashi.jpg
   bio:   Suyashi Smridhi often finds herself in a whirlpool of confusion when it comes to figuring out what she wishes to do with her life. An ardent reader, Suyashi is often found with a book in her hand as an escape from social interactions. She greatly admires Agha Shahid Ali, Virginia Woolf, Gabriel Garcia Marquez and Amitav Ghosh. She is also interested in exploring art, culture and history.
 
 Soumya Vats:
   name: Soumya Vats
-  avatar: ./Soumya.jpg
+  avatar: /assets/img/Soumya.jpg
   bio:   Soumya Vats is an English Honours student at Hansraj College, where she delights in constant existential crises. With a knack for the paranormal and conspiracy theories, she considers herself a multi-fandom freak who is constantly torn between Netflix and YouTube. And while this starry-eyed human burrito might be hard to get to know at first, she still knows the best eating spots in the city. So, her friends recommend making the extra effort.
   
 Satyam Srivastava:
   name: Satyam Srivastava
-  avatar: ./Satyam.jpg
+  avatar: /assets/img/Satyam.jpg
   bio:   Satyam Srivastava is a second year Chemistry student at Hansraj College, University of Delhi. Like many of us, he started writing poems for his high-school crush, but after an expected failure there, he moved on to different themes. He is a sports enthusiast and practices air-rifle shooting at amateur level. He also worked as the editor of the Hans-View magazine for election edition and his interests are literature, music, and spirituality. Lately he has also developed a liking for Hollywood movies.
   
-Satyam Srivastava:
-  name: Satyam Srivastava
-  avatar: ./Satyam.jpg
+Muskan Nagpal:
+  name: Muskan Nagpal
+  avatar: /assets/img/Muskan.jpg
   bio:   Muskan Nagpal is currently a Young India Fellow who loves sunflowers, and does not love chocolates. (Not like they are related, or are they?) She spends her free time by not being constructive and believes that productivity is overrated.
   
 Ishita Gautam:
   name: Ishita Gautam
-  avatar: ./Ishita.jpg
+  avatar: /assets/img/Ishita.jpg
   bio:   Ishita Gautam is a student of Literature at the University of Delhi. She likes to dabble in writing and to work for ecological causes.
   
 Aparajita:
   name: Aparajita
-  avatar: ./Aparajita.jpg
+  avatar: /assets/img/Aparajita.jpg
   bio:   Aparajita is a poet, performance artist, a member of Free the Verse and a firm believer in the fact that poetry can and should talk about the uglier, generally avoided aspects of life. She has been featured in events including the Delhi Poetry Festival, the International Jazz Festival organised in collaboration with the UN, and has shared stage space with Piyush Mishra at Izhaar, Jodhpur, in addition to winning, judging and hosting several poetry events in and around Delhi. She is incorrigibly attracted to good grammar, a lack of typos, and the correct usage of the Oxford comma. Her poetry began as the sea began, and talks about the wreckage beneath.
   
 Annika Amber:
   name: Annika Amber
-  avatar: ./Annika.jpg
+  avatar: /assets/img/Annika.jpg
   bio:   Annika Amber is a Computer Science major going in her final year with a keen interest in art and photography. With a dismissal for binaries in her heart and mind, she likes to spend her time drowning in sunsets and chasing poems. Burying half read books in her desolate never-to-be-read-again-land, she mourns their loss and has a dream to become their saviour someday.
   
 ---  

@@ -5,7 +5,8 @@ date: 2018-08-04 00:00:00 +0000
 subtitle: ''
 excerpt: ''
 image: ''
-categories: poetry
+author: Suyashi Smridhi
+category: [ issue1, poetry ]
 
 ---
 Tearing apart the lull
