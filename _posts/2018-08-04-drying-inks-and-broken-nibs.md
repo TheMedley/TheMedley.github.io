@@ -1,12 +1,11 @@
 ---
 title: Drying Inks and Broken Nibs
 date: 2018-08-04 06:59:24 +0000
-category: [ issue1, nonfiction ]
 author: Aliza Noor
 layout: single
 subtitle: ''
 excerpt: ''
-image: "/assets/img/Drying Ink 1.jpg"
+category: [ issue1, nonfiction ]
 
 ---
 These blotches on the paper, the drying ink, the steadiness and firmness of these wrinkled and worn out hands, pouring out their drenched inks and souls to take the shape of the letters their hands so fondly remember, each stroke moulded to suit the whims of the people, go on to create some art, to become that art, to live that art which is slowly dying every day a little at a time.
