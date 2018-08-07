@@ -3,7 +3,7 @@ title: Drying Inks and Broken Nibs
 date: 2018-08-04 06:59:24 +0000
 category: [ issue1, nonfiction ]
 author: Aliza Noor
-layout: singletion
+layout: single
 subtitle: ''
 excerpt: ''
 image: "/assets/img/Drying Ink 1.jpg"
