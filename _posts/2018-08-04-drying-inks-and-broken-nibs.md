@@ -9,7 +9,7 @@ category:
 - issue1
 - nonfiction
 image: ''
-categories: photo essay
+categories: nonfiction
 
 ---
 These blotches on the paper, the drying ink, the steadiness and firmness of these wrinkled and worn out hands, pouring out their drenched inks and souls to take the shape of the letters their hands so fondly remember, each stroke moulded to suit the whims of the people, go on to create some art, to become that art, to live that art which is slowly dying every day a little at a time.
