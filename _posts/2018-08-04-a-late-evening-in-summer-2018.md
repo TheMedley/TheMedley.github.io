@@ -2,8 +2,14 @@
 title: A Late Evening in Summer, 2018
 date: 2018-08-04 07:44:04 +0000
 author: Srishti Gupta
-category: [ issue1, poetry ]
+category:
+- issue1
+- poetry
 layout: single
+subtitle: ''
+excerpt: ''
+image: ''
+categories: fiction
 
 ---
 Six-thirty on the clock on 11th June saw the sun inching down the horizon, its rays sputtering, spent, like pens running out, leaving thoughts suspended mid-air. The slowly dipping sun found me on the balcony, trying to squeeze in a couple more chapters of a last year Booker-shortlisted, before the darkness drove me inside, much like the mosquitoes which, like the noisy children of a favourite aunt, come with the clouds and the petrichor. A breeze, an unexpected relief, tried to wedge a lock of hair from their perpetual position at the top of my head, resigned to a tight knot against the heat. 
