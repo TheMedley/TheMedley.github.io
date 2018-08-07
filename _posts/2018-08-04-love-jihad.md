@@ -5,7 +5,10 @@ category: [ issue1, nonfiction ]
 author: Malvika Jayakumar
 layout: single
 sidebar:
-  - author: Antara Agarwal
+  - Title: Antara Agarwal
+  - image: /assets/img/Antara.jpg
+  - image_alt: "image"
+  - text: "Antara Agarwal, a student of Hansraj College, is currently in her third year of pursuing English Hons. A member of the Creative Writing Society, Ostraca, she pens down her views and findings on the highly researched issue of Love Jihad that is said to have seeped into the hullabaloo of the already existing chaos of the county."
 
 ---
 _The first section of this article by Malvika is a non-partisan take on the alleged insidious conversion campaigns while the second section by Antara is a case study of a particular long-dragged incident which came into the limelight recently._
