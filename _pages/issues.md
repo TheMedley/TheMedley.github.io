@@ -5,7 +5,6 @@ layout: single
 classes: wide
 
 ---
-<div style="align:center;">
 
 ## Issue One
 
@@ -51,5 +50,3 @@ Srishti Gupta | A Muse Beyond Time: Delhi in Urdu Poetry
 Aliza Noor | Drying Ink and Broken Nibs
 Sanghmitra Jethwani | Bepurdah
 
-
-</div>
