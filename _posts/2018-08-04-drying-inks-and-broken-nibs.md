@@ -5,7 +5,11 @@ author: Aliza Noor
 layout: single
 subtitle: ''
 excerpt: ''
-category: [ issue1, nonfiction ]
+category:
+- issue1
+- nonfiction
+image: ''
+categories: photo essay
 
 ---
 These blotches on the paper, the drying ink, the steadiness and firmness of these wrinkled and worn out hands, pouring out their drenched inks and souls to take the shape of the letters their hands so fondly remember, each stroke moulded to suit the whims of the people, go on to create some art, to become that art, to live that art which is slowly dying every day a little at a time.
@@ -36,4 +40,4 @@ He promised me he’d write my name, my parent’s name, and a shayari as I thou
 
 Where: Urdu Bazaar, beginning of the lane in front of Jama Masjid
 
-We all sit in our homes, scrolling through Facebook and Instagram, marvelling at videos of artists fancying calligraphy with their various nibs and inks, and here are some people trying to preserve the same in its purest form, a stroke at a time. 
+We all sit in our homes, scrolling through Facebook and Instagram, marvelling at videos of artists fancying calligraphy with their various nibs and inks, and here are some people trying to preserve the same in its purest form, a stroke at a time.
