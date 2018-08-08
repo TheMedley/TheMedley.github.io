@@ -12,9 +12,9 @@ Under the reign of complexity in an unstable universe, one of the biggest cosmol
 
 The English Naturalist, Charles Darwin, believed that what set humans apart from other animals was a matter of degree, not kind.  While the instinctive tendency of communication was not unique to man, the acquisition of higher mental powers through evolution helped the human race transcend primitive perception, thus developing a greater ability to associate sounds with ideas. 
 
-This association became the foundation for the inception of language, causing a cognitive and cultural evolution.
-<br>
-#### 1. How Language Initiated a Cultural Evolution
+This association became the foundation for the inception of language, causing a cognitive and cultural evolution.<br>
+
+## 1. How Language Initiated a Cultural Evolution
 
 > _“Language serves not only to express thought but to make possible thoughts which could not exist without it.”_ - Bertrand Russell
 
@@ -24,7 +24,7 @@ Our ability to acquire evolutionarily beneficial behaviors by observing and imit
 
 Dialogue has significantly contributed to our understanding of the self and physical world. Throughout our existence, we have questioned using language; questioned about language. Language has been the medium of thought propagation, but a question has often been asked on the nature of the language-thought relationship: Could language help shape the way we think?
 
-#### 2. Linguistic Relativism
+## 2. Linguistic Relativism
 
 Early on in the movie, Arrival (2016), a science-fiction film that elegantly uses an alien invasion and a linguistic theory to define what it is to be human, we hear a recitation of the first lines from the protagonist's book, Introduction to Linguistics: "Language is the foundation of civilization. It is the glue that holds the people together. It is the first weapon drawn in a conflict." 
 
@@ -40,7 +40,7 @@ In cognitive studies, certain experiments have led to the emergence of evidence 
 
 In light of such thought-experiments in literature and evidence suggested by studies in favour of linguistic relativism, could it be possible to subtly alter one's language to impact the present world positively? 
 
-#### 3. The Role Of Language In The Future Of The Human Race
+## 3. The Role Of Language In The Future Of The Human Race
 
 > _“I want to quarrel with your opposition of culture and nature. Culture is always cultivated nature- nature being tended and being taken care of by one of nature’s products called man. If nature is dead, culture will die too, together with all the artifacts of our civilization.”_ - Hannah Arendt
 
