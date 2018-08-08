@@ -8,7 +8,8 @@ category: [ issue1, fiction ]
 ---
 _The piece tries to interlace the narrative of Bertha Mason from Charlotte Brontë's ‘Jane Eyre' with that of a young, married woman. The latter is set in the present day._
 
-> _“Here's an old story so new that it's still in the middle of happening, writing itself right now with no knowledge of where and how it'll end.” – Ali Smith, Autumn._
+<hr><br><br>
+> _“Here's an old story so new that it's still in the middle of happening, writing itself right now with no knowledge of where and how it'll end.”_ – Ali Smith, Autumn.
 
 <br><br>I never believed in spirits. But the way I figure it now, my understanding of entities was absolutely flawed, always. Although it doesn’t matter now, I have learned several facts throughout my life; the most important of them being that it is almost impossible to fight the blaze. One may perceive this as a vague generalization, but that is how I see it, now. It’s so bizarre, the way I am weighing time – then and now. I don’t know why I acknowledge this distinction when nothing compels me to do so. The last moments are still very vivid – his shrill shout, my spring and the blaze that was everywhere. I jumped because of the blaze. I do not think I would ever be able to reconcile myself to the fact that it is something which developed in me over time or something which was just there. I feel like I had always owned it; willingly, or unwillingly? I cannot comprehend. 
 
