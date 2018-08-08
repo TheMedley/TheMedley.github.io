@@ -11,7 +11,7 @@ image: ''
 ---
 Delhi has, in essence, been the lynchpin of the entity that is Hindustan. It has been the capital since before India started being invaded by different foreign powers, and consequently, its streets and air reek of history and its vagaries. The generations of poets living in these streets have immortalized them in their creations. Indeed, the tribulations of changing rulers, invasions, sackings, and the simultaneously changing equations of the city among its people have been described movingly in the oeuvres of various poets down the centuries.
 
-No discussion about Delhi and Urdu poetry can be started without the mention of the poet who is perhaps the biggest romancer of this city, Mir Taqi Mir, who used to go by his _takhallus_<sup>1</sup> ‘Mir’. Mir lived and wrote in the 18th century, and called Delhi his home, even though he was born in Agra and died in Lucknow. He lived in Delhi for about half a century, in the heart of the Old City, and his love for the city is visible in his poetry, at times subtle, and at others explicit, praising its walls, its people and its charm. It can be seen  in the following couplet -
+No discussion about Delhi and Urdu poetry can be started without the mention of the poet who is perhaps the biggest romancer of this city, Mir Taqi Mir, who used to go by his _takhallus_[^1] ‘Mir’. Mir lived and wrote in the 18th century, and called Delhi his home, even though he was born in Agra and died in Lucknow. He lived in Delhi for about half a century, in the heart of the Old City, and his love for the city is visible in his poetry, at times subtle, and at others explicit, praising its walls, its people and its charm. It can be seen  in the following couplet -
 
 > _“Dilli ke naa thay kooche auraaq-e-musavvar thay,_
 >
@@ -53,13 +53,13 @@ Ghalib succeeded Zauq as court poet, and was witness to the Revolt of 1857 and t
 
 For Zafar, however, Delhi emerged as a muse out of a need to oppose the British invasion in the only way he could - words. Delhi signified his homeland for him, and hence Zafar wrote numerous compositions extolling Delhi for what it was and lamenting what it has become under the foreign occupancy. Zafar’s poetry and those of other poets of his time like Ghalib, Zauq and Momin became a rallying point for the people’s discontent.
 
-In one of his poignant compositions, a _qita’a_<sup>2</sup>, Zafar cries for his beloved city –
+In one of his poignant compositions, a _qita’a_[^2], Zafar cries for his beloved city –
 
 > _‘‘Nahin haal-e-Dilli sunaane ke kaabil, ye kissa hai rone aur rulaane ke kaabil, ujaade looteron ne wo mehel iske, jo thay dekhne aur dikhaane ke kaabil, naa ghar hai naa dar hai raha ek Zafar hai, fakat haal-e-Dilli sunaane ke kaabil.’’_
 
 \(The condition of Delhi is not worth narrating, Delhi’s story is fit for making one cry. Vandals have uprooted its castles, which were worth seeing and appreciating. There are no homes, no temples, nothing. Only Zafar remains, to sing the woes of Delhi)
 
-The most touching of his poetry is written when he was sentenced to _saza-e-kaala-paani_<sup>3</sup> at Rangoon, where he ultimately died, away from his homeland -
+The most touching of his poetry is written when he was sentenced to _saza-e-kaala-paani_[^3] at Rangoon, where he ultimately died, away from his homeland -
 
 > _“Kitna hai badnaseeb Zafar dafan ke liye,_
 >
@@ -73,6 +73,6 @@ A city, in addition to being a physical space, is also a metaphor for the lives 
 
 Notes-
 
-1. _Takhallus_: an Urdu word for nom de plume. A _takhallus_ was often employed by many poets, and it was a word that had a common meaning, because it was customary to incorporate the _takhallus_ in the last _sher_ (couplet) of a _ghazal_.
-2. _Qita’a_ (Also spelled _Qita_ and _Qata_): A piece of poetry that is a part of a longer form like the _ghazal_ but can also be read independently.
-3. _Saza-e-kala-paani_: Refers to the sentencing of a convict in British India to the Cellular Jail in Andaman and Nicobar Islands, the convict being isolated from the mainland and made to live out his/her life in isolation. According to Indian belief, crossing the _‘kaala paani’_ (literally, black waters), referring to the seas surrounding the Indian peninsula, will result in loss of your social identity, and therefore the isolation becomes not only physical, but also becomes grounded in identity.
+[^1]: _Takhallus_: an Urdu word for nom de plume. A _takhallus_ was often employed by many poets, and it was a word that had a common meaning, because it was customary to incorporate the _takhallus_ in the last _sher_ (couplet) of a _ghazal_.
+[^2]: _Qita’a_ (Also spelled _Qita_ and _Qata_): A piece of poetry that is a part of a longer form like the _ghazal_ but can also be read independently.
+[^3]: _Saza-e-kala-paani_: Refers to the sentencing of a convict in British India to the Cellular Jail in Andaman and Nicobar Islands, the convict being isolated from the mainland and made to live out his/her life in isolation. According to Indian belief, crossing the _‘kaala paani’_ (literally, black waters), referring to the seas surrounding the Indian peninsula, will result in loss of your social identity, and therefore the isolation becomes not only physical, but also becomes grounded in identity.
