@@ -17,7 +17,7 @@ And I came back with half a heart,
 
 To the sea inside of me.
 
-It roared. I soared on Memory's wing,
+<br><br>It roared. I soared on Memory's wing,
 
 To the day the cold wind blew,
 
@@ -25,7 +25,7 @@ As I, this old enraptured thing,
 
 Soaked in sorrows new.
 
-The golden sand once bought me shells,
+<br><br>The golden sand once bought me shells,
 
 And in the autumn, oysters tell
 
@@ -33,7 +33,7 @@ And in the autumn, oysters tell
 
 Were days in Calcium's rounded frills.'
 
-Gone were days of moon-beamed baths,
+<br><br>Gone were days of moon-beamed baths,
 
 Of sand on lands of mine,
 
@@ -41,7 +41,7 @@ I stood lone and watched aghast,
 
 The comet that was Time.
 
-I still could skim and I could sail,
+<br><br>I still could skim and I could sail,
 
 Let choppy waters be,
 
