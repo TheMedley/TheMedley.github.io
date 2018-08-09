@@ -6,7 +6,7 @@ layout: single
 category: [ issue1, fiction ]
 
 ---
-_The piece tries to interlace the narrative of Bertha Mason from Charlotte Brontë's ‘Jane Eyre' with that of a young, married woman. The latter is set in the present day._
+_The piece tries to interlace the narrative of Bertha Mason from Charlotte Brontë's_ Jane Eyre _with that of a young, married woman. The latter is set in the present day._
 
 <hr><br><br>
 > _“Here's an old story so new that it's still in the middle of happening, writing itself right now with no knowledge of where and how it'll end.”_ – Ali Smith, Autumn.
