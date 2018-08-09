@@ -7,9 +7,9 @@ category: [ issue1, fiction ]
 layout: single
 
 ---
-_This story and its title are both inspired by Shel Silverstein’s_ Where The Sidewalk Ends_._
+_This story and its title are both inspired by Shel Silverstein’s_ Where The Sidewalk Ends.
 
-My little feet prance, trying to match my father's prudent pace as we walk on the sidewalk by the road leading towards home. 
+<hr><br><br>My little feet prance, trying to match my father's prudent pace as we walk on the sidewalk by the road leading towards home. 
 
 Crunch, crunch!
 
