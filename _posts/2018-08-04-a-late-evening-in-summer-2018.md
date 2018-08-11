@@ -2,7 +2,7 @@
 title: A Late Evening in Summer, 2018
 date: 2018-08-04 07:44:04 +0000
 author: Srishti Gupta
-category: [ issue1, poetry ]
+category: [ issue1, fiction ]
 layout: single
 
 ---
