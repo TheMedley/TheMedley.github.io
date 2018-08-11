@@ -1,5 +1,5 @@
 ---
-title: nonfiction
+title: "Non-fiction"
 permalink: /issue1/nonfiction/
 layout: category
 taxonomy: nonfiction

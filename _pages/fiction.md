@@ -1,6 +1,6 @@
 ---
 title: Fiction
-permalink: /issue1/fiction
+permalink: /issue1/fiction/
 layout: category
 taxonomy: fiction
 entries_layout: list
