@@ -6,7 +6,7 @@ subtitle: ''
 excerpt: ''
 image: ''
 category: [ issue1, poetry ]
-author: Aparajita
+author: Aparajita Deb
 
 ---
 I was in tenth grade when a pup

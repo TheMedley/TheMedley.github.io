@@ -45,10 +45,10 @@ Another very revered khaatib, Mr. Muhammad Tahseen, 73, has been a calligrapher 
 He promised me he’d write my name, my parent’s name, and a shayari as I thought I ought to ask him for, and even though I paid him then, it still wasn’t enough. After all, how could this beautiful art be anything but priceless?
 
 ![](/assets/img/DryingInk5.jpg)
-
+_Where: Urdu Bazaar, beginning of the lane in front of Jama Masjid_
 
 We all sit in our homes, scrolling through Facebook and Instagram, marvelling at videos of artists fancying calligraphy with their various nibs and inks, and here are some people trying to preserve the same in its purest form, a stroke at a time. 
 
 ![](/assets/img/DryingInk6.jpg)
-_Where: Urdu Bazaar, beginning of the lane in front of Jama Masjid_
+
 
