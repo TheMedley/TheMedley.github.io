@@ -17,7 +17,7 @@ Celebrating togetherness with us.
 
 Download our app and get a 10% off on all our products!
 
-Get Social!
+Get Social! Follow us on:<br><br>
 <a href="https://www.facebook.com/pixectra" target="_blank" class="btn btn--facebook"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <a href="https://www.instagram.com/pixectra" target="_blank" class="btn btn--google-plus"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a>
 <a href="https://www.twitter.com/pixectra" target="_blank" class="btn btn--twitter"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>Twitter</a>
