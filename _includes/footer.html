@@ -1,7 +1,7 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li><br>
     {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -25,7 +25,13 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">
+<div class="page__footer-copyright" style="text-align: left;">
+    <img src="assets/logo.png">
+</div>
+<div class="page__footer-copyright" style="text-align: center;">
+    
+</div>
+<div class="page__footer-copyright" style="text-align: right;">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br>
     {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a><br>
     Design by <a href="https://alokprateek.ml" target="_blank">Alok</a>.<br><br>
