@@ -8,8 +8,6 @@ main:
   url: "/masthead/"
 - title: Our Sponsors
   url: "/sponsors/"  
-- title: Archives
-  url: "/articles/"  
 - title: Submissions
   url: "/submission/"
 - title: Contact Us

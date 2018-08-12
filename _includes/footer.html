@@ -25,6 +25,9 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br>
-{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a><br>
-Design by <a href="https://alokprateek.ml" target="_blank">Alok</a>. </div>
+<div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br>
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a><br>
+    Design by <a href="https://alokprateek.ml" target="_blank">Alok</a>.<br><br>
+    <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a>
+</div>
