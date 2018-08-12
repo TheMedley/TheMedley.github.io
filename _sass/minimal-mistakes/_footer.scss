@@ -55,9 +55,13 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+    float: right;
+    min-width: 33%;
 }
 
 .page__footer-follow {
+    text-align: right;
+    
   ul {
     margin: 0;
     padding: 0;
@@ -89,3 +93,4 @@
     }
   }
 }
+
