@@ -7,7 +7,7 @@ permalink: /sponsors/
 
 <img src="/assets/img/spon_pixectra.jpg">
 
-Pixectra is revolutionising the way you save, consume and preserve your memories.
+### Pixectra is revolutionising the way you save, consume and preserve your memories.
 
 We do Photobooks, Polaroids, Posters, Flipbooks and other uniquely special products like no one else. We understand the value of your memories and we do justice to them. 
 
