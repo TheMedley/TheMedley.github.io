@@ -16,6 +16,7 @@ We at Pixectra bring your memories to life.
 Celebrating togetherness with us. 
 
 Download our app and get a 10% off on all our products!
+<a href="https://play.google.com/store/apps/details?id=com.pixectra.app"><img src="/assets/img/googleplay.svg"></a><br>
 
 _Get Social! Follow us on:_<br><br>
 <a href="https://www.facebook.com/pixectra" target="_blank" class="btn btn--facebook"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>Facebook</a>
