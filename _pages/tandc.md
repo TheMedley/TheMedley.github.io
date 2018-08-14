@@ -19,12 +19,15 @@ Permission is granted to temporarily download one copy of the materials (informa
   - attempt to decompile or reverse engineer any software contained on the journal website;
   - remove any copyright or other proprietary notations from the materials; or
   - transfer the materials to another person or "mirror" the materials on any other server.
+  
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by the team at Ostraca at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+
 For purpose of displaying content found on this website, appropriate content can be found on Press Resources page. You should preferably use these resources by linking it. If it is not possible, a download button has been provided to download these resources.<br>
 
 ## 3. Disclaimer
 
 The materials on the journal website are provided on an 'as is' basis. the team at Ostraca makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+
 Further, the team at Ostraca does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.<br>
 
 ## 4. Limitations
@@ -46,6 +49,5 @@ The team at Ostraca may revise these terms of service for its website at any tim
 ## 8. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of India and you irrevocably submit to the exclusive jurisdiction of the courts in the State of India.
-
 <br><br>
-<p class="notice"><h3>This policy is effective as of 4th of August, 2018.</h3></p>
+<h3 class="notice">This policy is effective as of 4th of August, 2018.</h3>
