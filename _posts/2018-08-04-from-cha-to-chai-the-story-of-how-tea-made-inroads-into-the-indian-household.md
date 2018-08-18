@@ -6,12 +6,12 @@ layout: single
 category: [ issue1, nonfiction ]
 
 ---
-If you are cold, tea will warm you;  
-if you are too heated, it will cool you;  
-If you are depressed, it will cheer you;  
-If you are excited, it will calm you.”
-
-― William Ewart Gladstone
+> _"If you are cold, tea will warm you;_  
+> _If you are too heated, it will cool you;_  
+> _If you are depressed, it will cheer you;_  
+> _If you are excited, it will calm you.”_
+> 
+> ― William Ewart Gladstone
 
 The mention of tea has been known to evoke a variety of emotions, whether it is the refreshing feel of morning tea, or the ideal beverage fit to serve to guests, or perhaps the numerous tiny tea breaks we take during work. But, as timeless as this beverage may seem, our great grandparents and the generations before them were not aware of tea, or as we know it, “chai.” The introduction of tea and the prominence it has attained in India is still recent. 
 
