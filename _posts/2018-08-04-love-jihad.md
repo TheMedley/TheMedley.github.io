@@ -6,7 +6,7 @@ author: Malvika Jayakumar
 layout: single
 
 ---
-_The first section of this article by Malvika is a non-partisan take on the alleged insidious conversion campaigns while the second section by Antara is a case study of a particular long-dragged incident which came into the limelight recently._
+_The first section of this article by Antara is a non-partisan take on the alleged insidious conversion campaigns while the second section by Malvika is a case study of a particular long-dragged incident which came into the limelight recently._
 
 <hr><br><br>Though a rather recent development, the idea of ‘love jihad’ has had quite an amorphous discourse. In plain words, the basic idea behind love jihad is to use the means of love and sex to convert people to Islam, through force, indoctrination and persuasion, and its basic aim, to establish a religious superiority and proclamation. It probably started in India, its name being coined by far right political infringements, but various ramifications of the same idea are known around the world. The nuances within these have been designed and forged by the ideas of religious violence, intolerance and extremism. Over these years, love jihad has attained a dual identity as a concept, of course, both mostly politicized by the right and the left.
 
