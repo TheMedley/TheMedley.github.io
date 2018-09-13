@@ -21,7 +21,7 @@ feature_row4:
     
 ---
 <style>
-    .archive__item-excerpt{ text-align: justify; font-size: 0.75em;}
+    .archive__item-excerpt{ text-align: justify; font-size: 0.65em; line-height: 1.3;}
 </style>
 ## Co-Editors-in-Chief
 
