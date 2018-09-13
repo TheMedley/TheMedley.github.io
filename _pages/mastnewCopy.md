@@ -14,7 +14,7 @@ feature_row2:
 feature_row3:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/Aaryaka.jpg
     alt: "Aaryaka Nidhi"
-    excerpt: "Aaryaka Nidhi is a third year literature student at Hansraj College. In her writing, she paints cities within indistinct boundaries, spilling colours that mix and match, curling up in places that make them look like they belong there. Otherwise, she's generally busy spending time with and singing songs to her favourite dogs in college. She also believes that a can of Coke and a packet of blue Lays are the things that will eventually help us attain world peace.{: style="text-align: justify;"}"
+    excerpt: "Aaryaka Nidhi is a third year literature student at Hansraj College. In her writing, she paints cities within indistinct boundaries, spilling colours that mix and match, curling up in places that make them look like they belong there. Otherwise, she's generally busy spending time with and singing songs to her favourite dogs in college. She also believes that a can of Coke and a packet of blue Lays are the things that will eventually help us attain world peace.{: style='text-align: justify;'}"
 feature_row4:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/Gauri.jpg
     alt: "Gauri Sharda"
