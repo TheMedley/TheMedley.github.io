@@ -2,7 +2,6 @@
 layout: single
 title: Masthead
 permalink: /mastheadnewtwo/
-classes: wide
 feature_row1:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/Smriti.jpg
     alt: "Smriti Verma"
