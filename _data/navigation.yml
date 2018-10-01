@@ -10,8 +10,6 @@ main:
   url: "/sponsors/"  
 - title: Submissions
   url: "/submission/"
-- title: Join Us
-  url: "/joinus/"
 - title: Contact Us
   url: "/contact/"  
 
