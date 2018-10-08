@@ -13,7 +13,7 @@ We're looking for work from emerging writers and poets that has unbridled origin
 **PROSE:** Only 1 piece at a time, 2500 words maximum.<br>
 **POETRY:** Up to 3 poems at a time, no length limits.<br>
 
-1. Prose and poetry should be pasted in the body of the email. If your poems require special formatting, you may send an attachment. 
+1. Poetry should ideally be pasted in the body of the email. If your poems require special formatting, you may send an attachment. Prose pieces - Fiction, Non-Fiction and Photo Essay - can be sent as attachments. 
 
 2. You also have to send a short third person bio, along with a headshot, in the submission email. 
 
