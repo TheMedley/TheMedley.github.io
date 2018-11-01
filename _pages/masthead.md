@@ -74,6 +74,6 @@ Sanghmitra Jethwani is a third year literature student at Hansraj College. On mo
 
 ### Alok Prateek
 <br>
-![](https://alokprateek.ml/avatar2.png)
+![](https://alokprateek.in/avatar2.png)
 <br>
 Alok Prateek is an engineering undergraduate from Greater Noida and is currently an intern with RIL Jio. Born and brought up in Noida, he is an alumni of Delhi Public School and JNU. As the son of an editor, he had access to books in abundance and enjoys the fantasy worlds of Tolkien, Sapkowski, Pratchett and Erikson. When he’s not coding or pushing pixels, you can find him taking his dog, Zoe, for a walk in the park.
