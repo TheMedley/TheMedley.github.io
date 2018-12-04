@@ -102,4 +102,4 @@ feature_row12:
 
 ### Masthead for old issues
 
-#### [Issue One]({%baseurl%}/masthead-issue-one/)
+#### [Issue One]({{site.baseurl}}/masthead-issue-one/)
