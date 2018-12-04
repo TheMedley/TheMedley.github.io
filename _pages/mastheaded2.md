@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Masthead
-permalink: /masthead/
+permalink: /masthead-issue-two/
 classes: wide
 feature_row1:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/Smriti.jpg
