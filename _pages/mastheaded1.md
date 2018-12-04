@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Masthead
-permalink: /masthead/
+permalink: /masthead-issue-one/
 tags:
 
 ---
