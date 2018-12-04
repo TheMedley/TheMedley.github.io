@@ -6,4 +6,4 @@ tags:
 
 ---
 
-Submissions for the Second Issue of the Medley are closed. Watch this space for further announcements.
+Submissions for the Second Issue of The Medley are closed. Watch this space for further announcements.
