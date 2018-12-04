@@ -22,7 +22,7 @@ feature_row4:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/PrashantChaudhary.png
     alt: "Prashant Chaudhary"
     title: "Prashant Chaudhary"
-    excerpt: 'If you've been to Hansraj and have seen this guy running and sweating wildly with a baggy shirt and a pair of headphones on, you've probably met Prashant. He is currently pursuing an undergraduate degree in English Literature from the University of Delhi. You might happen to find him attending a random class in a random college on a random day or looking for a vacant seat in the metro. If he looks worried, he's just wondering what to eat next or how to sneak out.'  
+    excerpt: 'If you’ve been to Hansraj and have seen this guy running and sweating wildly with a baggy shirt and a pair of headphones on, you’ve probably met Prashant. He is currently pursuing an undergraduate degree in English Literature from the University of Delhi. You might happen to find him attending a random class in a random college on a random day or looking for a vacant seat in the metro. If he looks worried, he’s just wondering what to eat next or how to sneak out.'  
 feature_row5:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/IraPatole.jpg
     alt: "Ira Patole"
