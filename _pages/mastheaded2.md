@@ -2,7 +2,7 @@
 layout: single
 title: Masthead
 permalink: /masthead/
-
+classes: wide
 feature_row1:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/Smriti.jpg
     alt: "Smriti Verma"
@@ -67,6 +67,8 @@ feature_row12:
 
 ---
 
+
+
 ## Co-Editors-in-Chief
 
 {% include feature_row id="feature_row1" type="left" %}
@@ -85,7 +87,7 @@ feature_row12:
 
 {% include feature_row id="feature_row7" type="left" %}
 
-## Prose Readers
+## Poetry Readers
 
 {% include feature_row id="feature_row8" type="right" %}
 
