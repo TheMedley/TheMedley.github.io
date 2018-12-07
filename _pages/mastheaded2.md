@@ -37,7 +37,7 @@ feature_row7:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/GovindGupta.jpg
     alt: "Govind Gupta"
     title: "Govind Gupta"
-    excerpt: 'Majoring in economics, Govind is a melange of fickle passions. With his childhood sheltered in Kolkata, he never gets over his love for that city even though he spent his adolescence in Bokaro and is now residing in the national capital. Gulzar and his lyrics lure him the most and he can listen to Yaman Kalyan for hours, even though he can never sing a line in tune. Govind loves his company and watches dog videos on Instagram.'  
+    excerpt: 'Majoring in economics, Govind is a melange of fickle passions. With his childhood sheltered in Kolkata, he never gets over his love for the life of that city even though he spent his adolescence in Bokaro and is now residing in the national capital. Gulzar and his lyrics lure him the most and he can listen to Yaman Kalyan for hours, even though he can never sing a line in tune. Govind loves the company of himself and watches doggo videos on Instagram. Narcissist? Not quite.'  
 feature_row8:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/Sanghmitra.jpg
     alt: "Sanghmitra Jethwani"
