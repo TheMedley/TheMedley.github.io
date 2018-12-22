@@ -67,7 +67,19 @@ feature_row12:
 
 ---
 
-
+<style>
+    .page__content .archive__item-title {
+    margin-top: 0.1em;
+    border-bottom: none;
+}
+    .page__content p, .page__content li, .page__content dl {
+    font-size: 1em;
+    line-height: 1.2em;
+}   
+    #issue-one a{
+        color: #000;
+        }
+</style>
 
 ## Co-Editors-in-Chief
 
