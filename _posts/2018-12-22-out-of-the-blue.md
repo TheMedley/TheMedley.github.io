@@ -6,26 +6,26 @@ category: [issue2, poetry]
 
 ---
 
-Red has grown tired now,
-of the exhausting symbolism,
-crushed by the burden
-of representing love and blood,
-of inducing blissfulness in a loving heart,
-or inciting self-harm in a broken one,
-of being present on first dates,
-and in gory thoughts that permeate
-even the soul, for hate
-leaves nothing to chance.
+<br>Red has grown tired now,
+<br>of the exhausting symbolism,
+<br>crushed by the burden
+<br>of representing love and blood,
+<br>of inducing blissfulness in a loving heart,
+<br>or inciting self-harm in a broken one,
+<br>of being present on first dates,
+<br>and in gory thoughts that permeate
+<br>even the soul, for hate
+<br>leaves nothing to chance.
  
 Red wants to quit, terms non-negotiable,
-will continue to represent blood, nature’s label,
-but will not stand for Love
-and then be expected to
-lend its hue
-to danger too, even though
-they normally go
-hand in hand,
-and I don’t understand
-this hue and cry, for ultimately
-everything is black and white.
+<br>will continue to represent blood, nature’s label,
+<br>but will not stand for Love
+<br>and then be expected to
+<br>lend its hue
+<br>to danger too, even though
+<br>they normally go
+<br>hand in hand,
+<br>and I don’t understand
+<br>this hue and cry, for ultimately
+<br>everything is black and white.
 

@@ -7,43 +7,43 @@ category: [issue2, poetry]
 ---
 
 Look down, little baby. 
-there she sleeps  in that modest, open casket,
-inhaling all her graces and hallelujahs 
-in her serene passage to the good Lord. 
+<br>there she sleeps  in that modest, open casket,
+<br>inhaling all her graces and hallelujahs 
+<br>in her serene passage to the good Lord. 
 
 a heaven stirrer. 
-the virtuous, the excellent was in her name,
-know her name was soul. 
-ARETHA, we called her. 
+<br>the virtuous, the excellent was in her name,
+<br>know her name was soul. 
+<br>ARETHA, we called her. 
 
 Here she is, 
-not frail of limbs or disavowed of good health anymore
-but an universal chanteuse now, invoking a thousand voices of body and soul. 
-tell her in spirit to sleep well and relieve one last blessing, 
- and make you the first supplicant to spread the word, 
-of the glory of the kingdom that she sang blissfully about. 
+<br>not frail of limbs or disavowed of good health anymore
+<br>but an universal chanteuse now, invoking a thousand voices of body and soul. 
+<br>tell her in spirit to sleep well and relieve one last blessing, 
+<br> and make you the first supplicant to spread the word, 
+<br>of the glory of the kingdom that she sang blissfully about. 
 
 Her daddy preached, 
-pearls of wisdom forming a bridge to enfranchisement,
-stirring the first twelve notes in her
-and a papillon rose. 
-How glorious her own share in this world then,
-to be raised as a hierophant 
-and unite diverse hearts of a thousand secular congregations. 
+<br>pearls of wisdom forming a bridge to enfranchisement,
+<br>stirring the first twelve notes in her
+<br>and a papillon rose. 
+<br>How glorious her own share in this world then,
+<br>to be raised as a hierophant 
+<br>and unite diverse hearts of a thousand secular congregations. 
 
 Blessed be the baby, 
-for you kissed her forehead and touched her feet 
-and in this last mass, 
-call her queen, call her grandma, call her the singer of mortals and anoint her in the order of love and reverence. 
+<br>for you kissed her forehead and touched her feet 
+<br>and in this last mass, 
+<br>call her queen, call her grandma, call her the singer of mortals and anoint her in the order of love and reverence. 
 
 What life is bigger than the soul  then, 
-what can death defeat in her? 
-Hair, face, limbs and adornments all subsumed and consumed by the voice that I made my own, 
-and passed it down to your mother 
-and now  it rests with you. 
-The virtuous and excellent one. 
-ARETHA, daughter of the most high. 
-She smiles at you and her vocal cords chime in yours. 
+<br>what can death defeat in her? 
+<br>Hair, face, limbs and adornments all subsumed and consumed by the voice that I made my own, 
+<br>and passed it down to your mother 
+<br>and now  it rests with you. 
+<br>The virtuous and excellent one. 
+<br>ARETHA, daughter of the most high. 
+<br>She smiles at you and her vocal cords chime in yours. 
 
 
 
