@@ -46,7 +46,7 @@ What life is bigger than the soul  then,
 <br>She smiles at you and her vocal cords chime in yours. 
 
 
-
+<br><br><br><br><br><br><br>
 
 
 > Author's Note: _This is a tribute in free verse to the great Aretha Franklin who has influenced the poet like no other. Her name had Arabic  origins meaning virtuous, excellent and her father, a famous pastor named C. L Franklin, was her idol. She grew up in the invincible
