@@ -19,15 +19,23 @@ category: [issue2, poetry]
 <br>favour or fascism? Caught between 
 <br>traditionalists and 
 <br>reformists— A woman I am.
+
+
 <br>How do I atone for my existence?
+
+
 <br>With black cloak— inch tape
 <br>of virtues? Or a tiara of polygamy? 
 <br>Pentagons, and prayers.
 <br>Farce, and fasts.
 <br>Mozart, and mosques.
+
+
 <br>How do I believe in a God that
 <br>wants to be praised all
 <br>the time?
+
+
 <br>Believers and Non-believers— a
 <br>dividing line, another Auschwitz?
 <br>Judgement Day— trick or treat?
