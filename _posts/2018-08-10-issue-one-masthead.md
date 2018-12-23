@@ -1,8 +1,12 @@
 ---
 layout: single
-title: Masthead
-permalink: /masthead-issue-one/
-tags:
+title: Issue One Masthead
+category: [issue1]
+author_profile: false
+read_time: false
+comments: false
+share: true
+related: false
 
 ---
 
