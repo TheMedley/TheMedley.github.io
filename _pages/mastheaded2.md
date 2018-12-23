@@ -113,7 +113,3 @@ feature_row12:
 
 {% include feature_row id="feature_row12" type="right" %}
 
-
-### Masthead for old issues
-
-#### [Issue One]({{site.baseurl}}/masthead-issue-one/)
