@@ -8,7 +8,6 @@ comments: false
 share: true
 related: false
 classes: wide
-permalink: /masthead2/
 feature_row1:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/Smriti.jpg
     alt: "Smriti Verma"
