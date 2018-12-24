@@ -10,7 +10,11 @@ feature_row12:
     excerpt: 'Shubhangi Swarup is a journalist and an educationist. _Latitudes of Longing_, her debut novel, was on bestseller lists soon after its Indian release. It won the Tata LitLive prize for debut fiction, and was shortlisted for the JCB Prize for Literature. She was awarded the Charles Pick Fellowship for Creative Writing at the University of East Anglia, and has also won awards for gender sensitivity as a journalist.'
 
 ---
-
+<style>
+.archive__item-caption{
+        font-size: .425em;
+    }
+</style>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/img/lolbook.jpg) "From the first glance itself, Shubhangi Swarup’s writing in her debut novel, _Latitudes of Longing_ asserts its lyrical intensity. Calling upon “our unassuming planet” as her creative muse, she merges geology and geography with a split narrative structure divided into four separate sections which come together as a whole; the first connected to the last completes the circle. The book is populated by a varied cast of characters whose lives are influenced by the diverse landscapes they occupy and inhabit. Shubhangi Swarup further explores the various ways in which nature affects us daily. The book becomes a nuanced meditation on the intricate relationship between the two as the narrative moves across faultlines, both physical and psychological, beginning from the Andaman Islands to Rangoon to Thamel and finally ending among the Karakorams. Human emotion is mapped on to geographical realities, constructing a modern form of eco-aware storytelling. _Latitudes of Longing_ is a bold, experimental foray into literary fiction in the Indian subcontinent."
  
 
