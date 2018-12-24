@@ -20,7 +20,6 @@ feature_row12:
 
 <hr>
 <br><br>
-
 ### 1.	To start off, can you begin by pointing to a moment in your life when you fell in love with writing and considered it as a career? How did you reconcile that with the general conception of a career wherein other, more mechanical ways of earning money are believed in?
 <br>
 Writing has always felt like a challenge at best, struggle at worst, to me. Initially I wrote on the sidelines of my education. Later, I assumed that one had to love literature to write (and I didn’t enjoy my literature degree), so I opted for other careers. However, I would still write. I fell in love with it the day I realized that this isn’t easy, it’s probably one of the toughest things I do, but also the most honest and fulfilling. I write so that I can be honest with myself, my voice and my vision.
