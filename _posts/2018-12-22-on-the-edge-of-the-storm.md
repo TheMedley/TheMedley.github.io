@@ -11,7 +11,7 @@ category: [issue2, poetry]
 <br>You're worried, or so you say
 <br>And look into my eyes searching for answers
 <br>I am no library — I illustrate no dances
-<br>That would sooth the wind god
+<br>That would soothe the wind god
 <br>Or potions that can make you fly
 <br>So we would not have to breathe
 <br>The dust of our ruined house
