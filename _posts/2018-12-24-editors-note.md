@@ -21,11 +21,11 @@ what next?
 
 
 We knew that we could not let our initial success provide
-us a false sense of security and lull us into believing that
+us with a false sense of security and lull us into believing that
 it was going to be easy from here on out. Only the first
 obstacle had been crossed, the first milestone reached.
 The long road was still spread out twisting before us and
-it required even more effort on our part to build up on
+it required even more effort on our part to build upon
 previous successes, and our past ideals. The immediate
 objective after the release of the journal was to come up
 with a second issue which was just as good as the first
@@ -35,7 +35,7 @@ one, if not better.
 Working towards this new issue was not a step upwards,
 but a path of tracing newer avenues of shape and form in
 the small, microcosmic literary world that emerging
-writers interact with in their daily lives. This was an
+writers interact within their daily lives. This was an
 exploration of alternative creative realities, a project
 where young writers could feel comfortable enough to
 share their visions and revisions of creative expression as
@@ -53,5 +53,5 @@ way the individual relates to its close institutional or
 familial environment, or perhaps even with oneself, there
 is that soul-searching most of us engage with as we grow
 older to acquire versions of ourselves. We hope each of
-these pieces make you think, challenge you and,
+these pieces make you think, challenge you and
 ultimately, help you encounter a crossroads of ideas.
