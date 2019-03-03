@@ -6,6 +6,9 @@ tags:
 
 ---
 
+<img src="/assets/img/20190228_201140_0003.png">
+
+
 Hello!
 
 Submissions for the Third Issue of The Medley, Ostraca’s bi-annual online literary journal, are now open and we wish to invite themed as well as non-themed entries for the sections of Fiction, Non-Fiction and Poetry, with any variety of style, structure, content and genre. Photo Essays are also welcome.
