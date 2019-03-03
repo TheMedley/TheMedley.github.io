@@ -18,8 +18,7 @@ For this issue, we are looking for themed works on the topic of Local Flavour. T
 In general, we're looking for work from emerging writers and poets that has unbridled originality, a raw energy and doesn't shy away from coming into its own. We want poetry and prose that sings, fragments itself and takes flight. Give us your best, most daring, pieces, exploring new terrains and new metaphors, pieces that sketch out paths and avenues in an otherwise unknown wasteland. We're looking for diversity, for versatility and for new voices of representation from all over the globe.
  
  
-PROSE: Only 1 piece at a time, 3000 words maximum.
-
+PROSE: Only 1 piece at a time, 3000 words maximum.<br>
 POETRY: Up to 3 poems at a time, no length limits.
  
  
