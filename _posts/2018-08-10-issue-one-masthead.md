@@ -10,6 +10,23 @@ related: false
 
 ---
 
+## Co-Founders
+
+### Muskan Nagpal
+<br>
+![](https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/MuskanNagpal.jpg)
+<br>
+Muskan Nagpal, currently, is a Young India Fellow at Ashoka University. She struggles to find who she really is and who she would want to be (because she cannot understand where one begins and the other ends). Most often, she can be found inside her room writing poems and reading books on weaving and embroidery.
+
+
+### Ashmeet Jolly
+<br>
+![](https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/AshmeetJolly.jpg)
+<br>
+Ashmeet Jolly is currently pursuing her Masters in Psychology at Panjab University, and is in her first year. 
+She passionately delves into absurdist and existentialist humour and at the same time strives to find the meaning of her existence, and fails every now and then. The book she treasures the most is ‘Prep’ by Curtis Sittenfeld and she recommends that anyone who is going through a heavy chapter in their life should give it a read. She is also, a Bob Ross fan and is quite sad that she will never be able to meet him.
+
+
 ## Co-Editors-in-Chief
 
 ### Smriti Verma
