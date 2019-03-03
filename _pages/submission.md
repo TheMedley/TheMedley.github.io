@@ -19,6 +19,7 @@ In general, we're looking for work from emerging writers and poets that has unbr
  
  
 PROSE: Only 1 piece at a time, 3000 words maximum.
+
 POETRY: Up to 3 poems at a time, no length limits.
  
  
