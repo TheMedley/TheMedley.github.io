@@ -1,6 +1,13 @@
 {
-    "name": "The Medley Journal",
-    "short_name": "The Medley Journal",
+    "name" : "The Medley Journal",
+    "short_name" : "The Medley Journal",
+    "theme_color" : "#ffffff",
+    "background_color" : "#ffffff",
+    "display" : "standalone",
+    "start_url" : "https://themedley.in/",
+    "lang" : "english",
+    "orientation" : "natural",
+    "generated" : "undefined",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -12,8 +19,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    ]
 }
