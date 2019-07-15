@@ -3,15 +3,15 @@
 const CACHE = "pwabuilder-offline";
 
 // TODO: replace the following with the correct offline fallback page i.e.: const offlineFallbackPage = "index.html";
-const offlineFallbackPage = "ToDo-replace-this-name.html";
+const offlineFallbackPage = "index.html";
 
 // Install stage sets up the index page (home page) in the cache and opens a new cache
 self.addEventListener("install", function (event) {
-  console.log("[PWA Builder] Install Event processing");
+  console.log("[The Medley] Install Event processing");
 
   event.waitUntil(
     caches.open(CACHE).then(function (cache) {
-      console.log("[PWA Builder] Cached offline page during install");
+      console.log("[The Medley] Cached offline page during install");
 
       if (offlineFallbackPage === "ToDo-replace-this-name.html") {
         return cache.add(new Response("TODO: Update the value of the offlineFallbackPage constant in the serviceworker."));
@@ -29,7 +29,7 @@ self.addEventListener("fetch", function (event) {
   event.respondWith(
     fetch(event.request)
       .then(function (response) {
-        console.log("[PWA Builder] add page to offline cache: " + response.url);
+        console.log("[The Medley] add page to offline cache: " + response.url);
 
         // If request was success, add or update it in the cache
         event.waitUntil(updateCache(event.request, response.clone()));
@@ -37,7 +37,7 @@ self.addEventListener("fetch", function (event) {
         return response;
       })
       .catch(function (error) {        
-        console.log("[PWA Builder] Network request Failed. Serving content from cache: " + error);
+        console.log("[The Medley] Network request Failed. Serving content from cache: " + error);
         return fromCache(event.request);
       })
   );
