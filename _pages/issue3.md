@@ -1,8 +1,8 @@
 ---
-title: Fiction
-permalink: /fiction/
+title: Issue Three
+permalink: /issue3/
 layout: category
-taxonomy: fiction
+taxonomy: issue2
 entries_layout: list
 classes: wide
 

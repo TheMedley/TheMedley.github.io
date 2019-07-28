@@ -1,6 +1,6 @@
 ---
 title: "Non-fiction"
-permalink: /issue1/nonfiction/
+permalink: /nonfiction/
 layout: category
 taxonomy: nonfiction
 entries_layout: list

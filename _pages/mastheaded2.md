@@ -59,10 +59,10 @@ feature_row11:
     title: "Vidushi Arya"
     excerpt: 'Vidushi Arya is a first-year student of Commerce at Hansraj College. Of the few things which are absolutely necessary for a happy life, she considers coffee, reading, music and heart-to-heart conversations the basic requirements. With a love for words and colours that go beyond the horizon, she spends her days trying to match balance sheets and memorising lyrics of her favourite pop songs. She firmly believes that a long walk can solve more problems than a heated discussion.'  
 feature_row12:
-  - image_path: https://alokprateek.in/avatar2.png
+  - image_path: https://alokprateek.in/avatar3.jpg
     alt: "Alok Prateek"
     title: "Alok Prateek"
-    excerpt: 'Alok Prateek is an engineering undergraduate from Greater Noida and is currently an intern with RIL Jio. Born and brought up in Noida, he is an alumni of Delhi Public School and JNU. As the son of an editor, he had access to books in abundance and enjoys the fantasy worlds of Tolkien, Sapkowski, Pratchett and Erikson. When he’s not coding or pushing pixels, you can find him taking his dog, Zoe, for a walk in the park.'
+    excerpt: 'Alok Prateek is working as a lead full-stack developer at TCL. Born and brought up in Noida, he is an alumni of Delhi Public School and JNU. As the son of an editor, he had access to books in abundance and enjoys the fantasy worlds of Tolkien, Sapkowski, Pratchett and Erikson. When he’s not coding or pushing pixels, you can find him talking about his experiences at tech conferences.'
 
 
 ---

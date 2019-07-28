@@ -1,6 +1,6 @@
 ---
 title: Poetry
-permalink: /issue1/poetry/
+permalink: /poetry/
 layout: category
 taxonomy: poetry
 entries_layout: list

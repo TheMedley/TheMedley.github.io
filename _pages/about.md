@@ -12,6 +12,7 @@ tags:
 The Medley is an online literary journal, published in India and focused on building a creative space for new and emerging writers, both nationally and internationally. We welcome narratives from writers and poets of all walks of life, work that is acutely personal and emboldened by its universality. We're looking for work that has unbridled originality, a raw energy and doesn't shy away from coming into its own. We want poetry and prose that sings, fragments itself and takes flight. Our goal is to look for and publish work that is daring, meandering the space between the unsaid and unwritten.
 
 ## History
+
 <img src="/assets/img/ostraca.jpg">
 Ostraca, the Creative Writing Society of Hansraj College has become one of the most integral collegiate societies in the National Capital Region since its inception almost four years ago. Over the span of four years, Ostraca has successfully organized events that help students and mentors of variant backgrounds get in touch with one another. 
 
