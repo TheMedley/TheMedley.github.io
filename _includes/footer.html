@@ -27,15 +27,16 @@
 
 <div class="page__footer-copyright" style="text-align: left;">
     <img src="{{ site.baseurl }}/assets/logo.png" style="height: 5em; width: 5em;">
-    <p>The Medley</p>
+    <p class="medley-title">The Medley</p>
     <!--<img src="{{ site.baseurl }}/assets/img/pix.png" style="height: 5vh;">
     <p>Our Sponsors</p>-->
 </div>
 
 <div class="page__footer-copyright" style="text-align: right;">
-    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br>
-    <br>
-    Design by <a href="https://alokprateek.in" target="_blank">Alok</a>.<br><br>
+    <span id="footer-focus-text">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</span>
+    <br><br>
+    <span id="footer-focus-text">Design by <a href="https://alokprateek.in" target="_blank"><u>Alok</u></a>.</span>
+    <br><br>
     <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a><br>
     <a href="{{ site.baseurl }}/tandc/">Terms of Service</a>
 </div>
