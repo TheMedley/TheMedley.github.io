@@ -75,9 +75,22 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: larger;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+.medley-title{
+  font-family: $title-font-family;
+  font-weight: 700;
+  font-size: larger;
+}
+
+#medley-nav-logo{
+  height: 2ch;
+  transform: translate(0rem, -0.2rem) scale(1.6);
+  padding-right: 1ch;
 }

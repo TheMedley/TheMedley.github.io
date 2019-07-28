@@ -75,8 +75,15 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 1rem;
   }
+  /*@media (max-width: $medium){
+    p,
+    li,
+    dl {
+      font-size: 1.2rem;
+      }
+  }*/
 
   /* paragraph indents */
   p {
