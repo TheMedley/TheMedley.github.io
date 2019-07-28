@@ -50,7 +50,7 @@ One important lesson I learned early on was to forget about trying to be origina
 
 ### You mentioned during a launch event that you started writing your new novel, _Small Days and Nights_ alongside your brilliant recent poetry collection. In fact, the initial plan was to publish it before _Girls Are Coming Out of the Woods_. What led to the later publication? Also as a writer of both prose and poetry, how do you decide which works better for a particular idea or thought?
 
-Ideas flow over across forms. These things are fluid and work themselves out. I wrote the poems first because they seemed more urgent, and they require less stamina. It takes longer for me to find my way into a novel, and it’s harder for me to stay there. Small Days and Nights and Girls Are Coming Out of the Woods share many themes, and these are not new themes, they’ve been popping up since I first started writing. Writers have obsessions. We return to them like cream buns.
+Ideas flow over across forms. These things are fluid and work themselves out. I wrote the poems first because they seemed more urgent, and they require less stamina. It takes longer for me to find my way into a novel, and it’s harder for me to stay there. _Small Days and Nights_ and _Girls Are Coming Out of the Woods_ share many themes, and these are not new themes, they’ve been popping up since I first started writing. Writers have obsessions. We return to them like cream buns.
 
 <br>
 
