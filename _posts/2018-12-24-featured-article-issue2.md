@@ -17,11 +17,13 @@ feature_row12:
 </style>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/img/lolbook.jpg){: .align-left} "From the first glance itself, Shubhangi Swarup’s writing in her debut novel, _Latitudes of Longing_ asserts its lyrical intensity. Calling upon “our unassuming planet” as her creative muse, she merges geology and geography with a split narrative structure divided into four separate sections which come together as a whole; the first connected to the last completes the circle. The book is populated by a varied cast of characters whose lives are influenced by the diverse landscapes they occupy and inhabit. Shubhangi Swarup further explores the various ways in which nature affects us daily. The book becomes a nuanced meditation on the intricate relationship between the two as the narrative moves across faultlines, both physical and psychological, beginning from the Andaman Islands to Rangoon to Thamel and finally ending among the Karakorams. Human emotion is mapped on to geographical realities, constructing a modern form of eco-aware storytelling. _Latitudes of Longing_ is a bold, experimental foray into literary fiction in the Indian subcontinent."
 
+<br>
 <p style="text-align: right !important;"><b>Areeb Ahmad</b><br>
 Co-Editor-In-Chief</p>
 
 <hr>
 <br>
+
 ### 1.	To start off, can you begin by pointing to a moment in your life when you fell in love with writing and considered it as a career? How did you reconcile that with the general conception of a career wherein other, more mechanical ways of earning money are believed in?
 <br>
 Writing has always felt like a challenge at best, struggle at worst, to me. Initially I wrote on the sidelines of my education. Later, I assumed that one had to love literature to write (and I didn’t enjoy my literature degree), so I opted for other careers. However, I would still write. I fell in love with it the day I realized that this isn’t easy, it’s probably one of the toughest things I do, but also the most honest and fulfilling. I write so that I can be honest with myself, my voice and my vision.
