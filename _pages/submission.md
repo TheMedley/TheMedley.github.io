@@ -11,7 +11,7 @@ tags:
 <img src="/assets/img/issue-4.png">
 
 
-Displacement can be a shift in position, a movement in space, a defence mechanism. It can be done of one's own volition or due to unavoidable circumstance. It is more than just another word for change. Modern life, for example, is subject to frequent displacements of various kinds. The most apparent contemporary geo-political instance of it is perhaps the refugee crisis. In this issue of _The Medley_, we are looking for works which explore the myriad ways in which displacement affects us. We want writing which addresses displacements of space, of identity, of time, of body. We welcome any and all interpretations of this word, its implications, and how it colours our lives.
+Displacement can be a shift in position, a movement in space, a defence mechanism. It can be done of one's own volition or due to unavoidable circumstance. It is more than just another word for change. Modern life, for example, is subject to frequent displacements of various kinds. In this issue of _The Medley_, we are looking for works which explore the myriad ways in which displacement affects us. We want writing which addresses displacements of space, of identity, of time, of body. We welcome any and all interpretations of this word, its implications, and how it colours our lives.
 
 **Non-themed submissions for this issue will also be accepted.**
 <hr>
