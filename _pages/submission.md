@@ -6,7 +6,7 @@ tags:
 
 ---
 
-**Submission Window for the Fourth Issue of _The Medley_ will be open from 1st September to 10th October. Read further for the guidelines.**
+**Submission Window for the Fourth Issue of _The Medley_ is now closed. The issue will release in December.**
 
 <img src="/assets/img/issue-4.png">
 
