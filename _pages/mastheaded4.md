@@ -27,8 +27,7 @@ feature_row5:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/aqdas.jpg
     alt: "AQDAS RAZA"
     title: "AQDAS RAZA"
-    excerpt: 'Aqdas, majoring in Economics, is currently in his second year of undergraduate study. A quiet observer of the world in its rapid motion, he's often found on the sidelines. Caught between trying to make sense of the economy and his dreams of becoming a movie star, all he can manage are half-baked jokes and awkward hellos. An introvert with love for Messi, and 'samosa and chai' unbound, he tries to reflect life around him in his writing and hopes to travel the world someday.
-'      
+    excerpt: 'Aqdas, majoring in Economics, is currently in his second year of undergraduate study. A quiet observer of the world in its rapid motion, he is often found on the sidelines. Caught between trying to make sense of the economy and his dreams of becoming a movie star, all he can manage are half-baked jokes and awkward hellos. An introvert with love for Messi, and "samosa and chai" unbound, he tries to reflect life around him in his writing and hopes to travel the world someday.'
 feature_row6:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/damini.jpg
     alt: "DAMINI SARMA"
@@ -115,4 +114,3 @@ feature_row12:
 ## Web Developer
 
 {% include feature_row id="feature_row12" type="right" %}
-
