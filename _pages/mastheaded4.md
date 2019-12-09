@@ -19,7 +19,7 @@ feature_row3:
     title: "GOVIND GUPTA"
     excerpt: 'Majoring in economics, Govind is a melange of fickle passions. With his childhood sheltered in Kolkata, he never gets over his love for the life of that city even though he spent his adolescence in Bokaro and is now residing in the national capital. Gulzar and his lyrics lure him the most and he can listen to Yaman Kalyan for hours, even though he can never sing a line in tune. Govind loves the company of himself and watches doggo videos on Instagram. Narcissist? Not quite.'    
 feature_row4:
-  - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/shreyashi.png
+  - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/shreyashi.jpg
     alt: "SHREYASI BANERJEE"
     title: "SHREYASI BANERJEE"
     excerpt: 'Shreyasi Banerjee is a second year student of English at Hansraj College. A lover of poetry and music, she can often be seen petting dogs and trying to approach cats around campus. She is a proud Bengali, and as anyone who has known her will tell you, she will never stop praising her hometown of Kolkata, and its politics and food.'  
