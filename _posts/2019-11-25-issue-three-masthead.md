@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Issue Two Masthead
+title: Issue Three Masthead
 category: [issue3]
 author_profile: false
 read_time: false

@@ -2,7 +2,7 @@
 layout: single
 title: Behind The Cover
 author: Samiksha Jain
-category: [issue3, behind_the_cover]
+category: [issue4, behind_the_cover]
 header:
   image: /assets/img/feature4.jpg
   caption: "Photo credit: Samiksha Jain"

@@ -7,7 +7,7 @@ feature_row2:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/sharanya.jpg
     alt: "Sharanya Manivannan"
     image_caption: 'Photo Credit: Rahul Dev'
-    excerpt: 'Sharanya Manivannan is the author of five books of fiction, poetry and children's literature, including the novel, _The Queen of Jasmine Country_, which was longlisted for the 2019 JCB Prize, and the short story collection, _The High Priestess Never Marries_, which won the 2015-2016 South Asia Laadli Media and Advertising Award for Gender Sensitivity (Best Book – Fiction).'
+    excerpt: 'Sharanya Manivannan is the author of five books of fiction, poetry and children’s literature, including the novel, _The Queen of Jasmine Country_, which was longlisted for the 2019 JCB Prize, and the short story collection, _The High Priestess Never Marries_, which won the 2015-2016 South Asia Laadli Media and Advertising Award for Gender Sensitivity (Best Book – Fiction).'
     
 ---
 
