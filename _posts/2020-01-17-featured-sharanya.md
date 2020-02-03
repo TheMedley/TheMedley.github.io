@@ -64,6 +64,10 @@ I was in my early 20s when I lost my grandmother, and sometime during the bereav
 Artists of all kinds, as well as teachers, civil servants, journalists and so many categories of people, have a prerogative to respond in times of political strife. When lives and ethical imperatives are in danger, one should not rest easy. Anyone who does is in favour of the slide into evil. 
 However, pacing and personal reflection are both very important. Remember that there is only one of you. If you burn out, or if you face a consequence of some kind, you will not be able to do the work that you have to do. We are in a time in which it’s vital to take turns to be visible and vocal, and to recharge and to listen. It’s important to be inspired by revolutionaries of the past and present, but to be thoughtful about your own personal context. Those with structural privilege can afford to be at the forefront. If you do not have enough of it, your resistance must factor your well-being in in a different way. Whatever your resistance is – whether it’s teaching, confronting people in your family and alumni Whatsapp groups, coming up with memes, writing poetry, painting graffiti – _whatever_ it is, know that it matters. Know that you can pause, pass the baton, and pick it back up when you can.
 
+<br><br><br>
+
+<hr>
+{% include feature_row id="feature_row2" type="right" %}
 
 
 

@@ -63,3 +63,8 @@ Only that everyone has their own creative process - and it’s tremendously impo
 Taking a creative writing course - and this is something we discuss in class - doesn’t make you a writer. Nothing of its own, will. Becoming a writer is a lifelong journey, made up of slivers of experiences, of which taking a creative writing class might be one. 
 
 I know that mostly young writers are told to “read like a writer” and to read books in order to write them—and while I agree, I would also add, learn to listen like a writer. To be a good writer, you must be a good listener, for if you have no space for other people’s stories and the way they tell them, there will be very little room in your own writing to imagine other lives.
+
+<br><br><br>
+
+<hr>
+{% include feature_row id="feature_row2" type="right" %}
