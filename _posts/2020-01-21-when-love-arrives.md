@@ -132,8 +132,9 @@ Even though Death would barge in through the door, unannounced, when the summer 
 
 ________________________________________________________________
 _In loving memory of Dr Mani Bhushan Prasad, a charming husband, an adoring father, a doting grandfather and the greatest teacher one could find. I hope you’re tickling some bones, wherever you are._
-________________________________________________________________
 
+<hr>
+<br>
 
 [^1]:  Maternal grandfather
 [^2]:  Huh. Your Nanu. In our times, he was very popular. After class, girls would run after him- Sir, Sir, Sir, I have a question. All of them fancied his smile.
