@@ -1,6 +1,6 @@
 ---
 title: Semesters with a Side
-author: Soumya Vats, Farhan Mozammil
+authors: Soumya Vats, Farhan Mozammil
 category: [issue4, photostory]
 
 ---
