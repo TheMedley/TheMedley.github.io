@@ -4,11 +4,12 @@ permalink: /
 breadcrumbs: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/img/feature3.jpg
+  overlay_image: /assets/img/feature4.jpg
   cta_label: '<i class="fas fa-book"></i> Read our latest issue'
   cta_url: /issue3/issue-three-toc/
-  caption: "&copy; Sarthak Kwatra"
+  caption: "&copy; Samiksha Jain"
 excerpt: "The Medley is an online literary journal, published by Ostraca, the Creative Writing Society of Hansraj College.<br> It is focused on building a creative space for new and emerging writers, both nationally and internationally.<br>"
+
 
 feature_row:
   - image_path: /assets/img/fiction2.jpg
@@ -29,27 +30,62 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Explore Poetry"
     image_caption: "&copy; Samiksha Jain"
+
 intro:
-  - excerpt: 'The Third Issue is out now. <br><br><br><br><br> Submissions for the Fourth Issue are now closed. The will be out in December'
+  - excerpt: '<h3>What will you write,</h3>
+  <br>
+  when your hands droop<br>
+  impotent <br>
+  and your thoughts are paralyzed.<br>
+  <br>
+  What will glimmer in this gleaming oblivion?<br>
+  <br>
+  Compose yourself first.<br>
+  <br>
+  Pick up your pen and<br>
+  touch the cold paper again,<br> 
+  with your wrinkled fingertips —<br>
+  <br>
+  For how long will you<br>
+  revel in and rebel against <br>
+  virtual delights?<br>
+  <br>
+  One of these days,<br>
+  you must sully your hands.<br>
+  <br>
+  <br>
+  <span>A poem by <a href="https://themedley.in/poetry/what-will-you-write/">Utkarsh</a></span>'
   
 ---
 <style>
     .page__hero--overlay {
     padding: 12em 0 4em 0;
     }
+
     .archive__item-body p{
-    text-align: center;
     padding-top: 1em;
+    }
+    .archive__item-excerpt{
+      text-align: left;
     }
     .archive__item-caption{
         font-size: .425em;
     }
-
+    .feature__item--left {
+    float: left;
+    margin-left: 10ch;
+    margin-right: 10ch;
+    width: auto; 
+    }
+    .feature__item--left .archive__item-teaser img {
+     width: 60%;
+    }
    
     a.btn.btn--light-outline.btn--large {
     background-color: red;
     }
 </style>
 {% include feature_row id="intro" type="center" %}
+
 
 {% include feature_row %}
