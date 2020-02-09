@@ -5,8 +5,6 @@ category: [poetry]
 
 ---
 
-<h3>What will you write,</h3>
-  <br>
   when your hands droop<br>
   impotent <br>
   and your thoughts are paralyzed.<br>
