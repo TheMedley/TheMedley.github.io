@@ -6,16 +6,9 @@ tags:
 
 ---
 
-**Submission Window for the Fourth Issue of _The Medley_ is now closed. The issue will release in December.**
+**Submission Window for the Fourth Issue of _The Medley_ is now closed. The issue has been released. Submissions for the Fifth Isuue will open soon. Watch this page for further announcements.**
 
-<img src="/assets/img/issue-4.png">
-
-
-Displacement can be a shift in position, a movement in space, a defence mechanism. It can be done of one's own volition or due to unavoidable circumstance. It is more than just another word for change. Modern life, for example, is subject to frequent displacements of various kinds. In this issue of _The Medley_, we are looking for works which explore the myriad ways in which displacement affects us. We want writing which addresses displacements of space, of identity, of time, of body. We welcome any and all interpretations of this word, its implications, and how it colours our lives.
-
-**Non-themed submissions for this issue will also be accepted.**
 <hr>
-
 
 ## GENERAL GUIDELINES
 
@@ -26,7 +19,7 @@ We wish to invite themed as well as non-themed entries for the sections of Ficti
 
 1. Prose and poetry should ideally be directly pasted in the body of the email. If your work requires special formatting, you may send it as an attachment, preferably in the form of a word document. PDF files are also acceptable.
 
-2. All submissions have to be accompanied by a short third person bio, along with a headshot/photograph of the submitter as an attachment. 
+2. All submissions have to be accompanied by a short third person bio, along with a headshot/photograph of the submitter as an attachment.
 
 3. The category of your work - fiction, non-fiction, poetry - has to be mentioned in the subject of the submission email. Also state whether your submission is themed or non-themed. Before you send work, please familiarize yourself with _The Medley_ and our editorial practices by going through our older issues available on the website.
 
