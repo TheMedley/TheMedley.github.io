@@ -25,7 +25,7 @@ We wish to invite themed as well as non-themed entries for the sections of Ficti
 
 1. Prose and poetry should ideally be directly pasted in the body of the email. If your work requires special formatting, you may send it as an attachment, preferably in the form of a word document. PDF files are also acceptable.
 
-2. All submissions have to be accompanied by a short third person bio, along with a headshot/photograph of the submitter as an attachment.
+2. All submissions have to be accompanied by a short third person bio of no more than 100 words, along with a headshot/photograph of the submitter as an attachment.
 
 3. The category of your work - fiction, non-fiction, poetry - has to be mentioned in the subject of the submission email. Also state whether your submission is themed or non-themed. Before you send work, please familiarize yourself with _The Medley_ and our editorial practices by going through our older issues available on the website.
 
