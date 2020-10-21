@@ -6,7 +6,7 @@ tags:
 
 ---
 
-**The Submission Window for the Fifth Issue of _The Medley_ is now open. The deadline is 30th April.**
+**The Submission Window for the Fifth Issue of _The Medley_ is now closed.**
 
 ![issue five](/assets/img/issue-5.jpg)
 
