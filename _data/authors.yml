@@ -16,7 +16,6 @@ editor:
   youtube: 
   google_plus: 
 
-# Non Fiction writers
 KG Divya:
   name: KG Divya
   avatar: /assets/img/Divya.jpg
@@ -68,7 +67,6 @@ Antara Agarwal:
   bio: Antara Agarwal, a student of Hansraj College, is currently in her third year of pursuing English Hons. A member of the Creative Writing Society, Ostraca, she pens down her views and findings on the highly researched issue of Love Jihad that is said to have seeped into the hullabaloo of the already existing chaos of the county.
   
 
-# Fiction writers
 Anasuya Borah:
   name: Anasuya Borah
   avatar: /assets/img/Anasuya.jpg
@@ -90,7 +88,6 @@ Anshuman Yadav:
   bio: Anshuman Yadav grew up in Delhi, India. He is pursuing English Honours from Hansraj College, University of Delhi and is in his final year. He is an avid reader and a cinephile.
   
 
-# Poetry writers
 Suyashi Smridhi:
   name: Suyashi Smridhi
   avatar: /assets/img/Suyashi.jpg
@@ -299,5 +296,84 @@ Utkarsh:
   name: Utkarsh
   avatar: /assets/img/utkarshpoem.jpg
   bio: Utkarsh writes, but doesn’t share often - it’s his self-conscious self that he’s collaborating with and fighting against at all times. Hindu College is his abode for a few more months so don’t hesitate to sit down for a writing session with him if you’re passing by!
+
+Abheet Srivastav:
+    name: Abheet Srivastav
+    avatar: assets/img/AbheetSrivastav.jpg
+    bio: Abheet hails from Lucknow, and feels the act of writing about oneself in third person is an act of comedic dissociation. Believes that philosophy holds the answers to most of life's problems. On an eternal quest to read as many books as possible. Finds the whole obsession of the reader wanting to know the writer, really absurd.
+
+C.L. Severson:
+    name: C.L. Severson
+    avatar: assets/img/C.L.Severson.jpg
+    bio: C.L. Severson is a transfemme poet living in Seattle. Of Mexican descent, she has always been fascinated with complex myths and silenced cultures. She writes of her experiences as a sex worker living with chronic illness . Themes of her work are often cultural displacement, gender invisibility, and a strong voice of spiritual awakening.
+    instagram: https://www.instagram.com/CLseverson_poetry/
+
+DS Maolalai:
+    name: DS Maolalai
+    avatar: assets/img/DSMaolalai.jpg
+    bio: DS Maolalai has been nominated four times for Best of the Net and three times for the Pushcart Prize. His poetry has been released in two collections, "Love is Breaking Plates in the Garden" (Encircle Press, 2016) and "Sad Havoc Among the Birds" (Turas Press, 2019).
+
+Gerard Sarnat:
+    name: Gerard Sarnat
+    avatar: assets/img/GerardSarnat.jpg
+    bio: Gerard Sarnat MD’s won the Poetry in Arts First Place Award/Dorfman Prizes; has been nominated for a handful of recent Pushcarts/Best of Net Awards; authored HOMELESS CHRONICLES (2010), Disputes, 17s, Melting The Ice King (2016). He’s widely published including recently by academic-related journals Stanford, Oberlin, Wesleyan, Johns Hopkins, Harvard, Pomona, Brown, Penn, Dartmouth, Columbia, Sichuan, Canberra, Universities of Chicago and Maine; as well as Ulster, Gargoyle, Main Street Rag, American Journal Poetry, Poetry Quarterly, New Delta Review, Brooklyn Review, LA Review, San Francisco Magazine, New York Times. Mount Analogue selected KADDISH for distribution nationwide Inauguration Day. Poetry was chosen for a 50th Harvard reunion Dylan symposium.
+
+John Grey:
+    name: John Grey
+    avatar: assets/img/JohnGrey.jpg
+    bio: John Grey is an Australian poet, US resident. Recently published in Hawaii Pacific Review, Dalhousie Review and Qwerty with work upcoming in Blueline, Willard and Maple and Clade Song. 
+
+Mayank Manchanda:
+    name: Mayank Manchanda
+    avatar: assets/img/MayankManchanda.jpg
+    bio: Mayank Manchanda is an undergraduate student pursuing English Literature from Shaheed Bhagat Singh College. He believes that poetry should never be a personal endeavor and should be used as an empathetic tool to highlight the lives of the less fortunate rungs of society. He is soon to be published in the prestigious All India anthology by Delhi Poetry Slam and has been fortunate enough to win creative writing and spoken word events at the prestigious colleges of the University of Delhi.
+
+Milly Brown:
+    name: Milly Brown
+    avatar: assets/img/MillyBrown.jpg
+    bio: I am Milly Brown of Reno, Nevada.  I studied under Josephine Miles at U. C. Berkeley.  Many of my poems have been printed in various publications over the years, most notably -  U-Rights Magazine (2020); Straylight Online (2020); Bangalore Review (2019); California Quarterly (2019); Desert Wood (UNR, 1991); Eclectic (1970); Hiram Poetry Review (1971);  The Green Flag (City Lights Books, 1969).   I took a long break from submitting, but I am revived.
+
+Robert Beveridge:
+    name: Robert Beveridge
+    avatar: assets/img/RobertBeveridge.jpg
+    bio: Robert Beveridge (he/him) makes noise (xterminal.bandcamp.com) and writes poetry in Akron, OH. Recent/upcoming appearances in Red Coyote Review, Deep South Magazine, and Aromatica Poetica, among others.
+
+Roy Duffield:
+    name: Roy Duffield
+    avatar: assets/img/RoyDuffield.jpg
+    bio: Roy Duffield has a first-class honours degree in creative writing from Bath Spa University. Last year he headlined Barcelona’s annual Beat Poetry Festival alongside some of Spain’s most successful performance poets. He has travelled to over 100 countries and publishes his micro-poetry, art and photography on Instagram as the @drinking_traveller.
+
+Teodora Nikolova:
+    name: Teodora Nikolova
+    avatar: assets/img/TeodoraNikolova.jpg
+    bio: Thea Nikolova is a writer and academic based in North East England, currently working in news and media, and due to start a PhD in English Literary Studies in October 2020. She has BA in English language and creative writing from Lancaster University, where she frequently performed her poetry, and an MA in English Literature from Durham University. Her work has appeared in Cake Literary Journal and the Stonecoast Review, while her academic writing has been recognized at multiple conferences. Her poetry explores themes of womanhood and identity in a global world.
+
+Aditya Singh:
+    name: Aditya Singh
+    avatar: assets/img/AdityaSingh.jpg
+    bio: Aditya Singh is a second-year student in Hansraj college pursuing his undergraduate degree in English Honours. Carrying extreme love for fantasy in his heart and mind, Aditya pursues dragons and knights in his own imaginary world, and can often be found stuck in a day-dream. He nurtured a desire to pursue literature since his teens, a choice which landed him in the pure atmosphere of Delhi.  He currently aspires to complete his own book and further pursue his studies in the field of literature.
+
+Carolyn Geduld:
+    name: Carolyn Geduld
+    avatar: assets/img/CarolynGeduld.jpg
+    bio: Carolyn Geduld is a mental health professional in Bloomington, Indiana. Her fiction has appeared in numerous literary journals and anthologies. Her novel Take Me Out The Back is being published by Black Rose Publishers in 2020.
+
+Christopher Moore:
+    name: Christopher Moore
+    avatar: assets/img/ChristopherMoore.jpg
+    bio: Christopher Moore is a Northern Irish writer, and a graduate of English from Queen's University Belfast, as well as the MA in TV Fiction Writing at Glasgow Caledonian University.  Alongside a number of playwriting achievements, including being longlisted for the 2019 Bruntwood Prize, he has had several short fiction pieces published in the UK, Ireland and US over the last few years.
+
+DC Diamondopolous :
+    name: DC Diamondopolous 
+    avatar: assets/img/DCDiamondopolous.jpg
+    bio: DC Diamondopolous is an award-winning novelette, short story, and flash fiction writer with over 200 stories published internationally in print and online magazines, literary journals, and anthologies. DC's stories have appeared in - _34th Parallel, So It Goes - The Literary Journal of the Kurt Vonnegut Museum and Library, Lunch Ticket, Raven Chronicles, Silver Pen, Blue Lake Review_, and many others. DC was nominated for Best of the Net Anthology. She lives on the California central coast with her wife and animals.
+
+Thomas Reed Willemain :
+    name: Thomas Reed Willemain 
+    avatar: assets/img/ThomasReedWillemain.jpg
+    bio: Dr. Thomas Reed Willemain is a software entrepreneur, emeritus professor of statistics, and former intelligence officer. He holds degrees from Princeton University and Massachusetts Institute of Technology. His flash fiction has been published in _Burningword Literary Journal_, _Hobart_, and _Detritus Online_.
+
+
+
 ---  
   
