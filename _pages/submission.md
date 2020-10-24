@@ -6,13 +6,9 @@ tags:
 
 ---
 
-**The Submission Window for the Fifth Issue of _The Medley_ is now closed.**
+**Submission Window for the Fifth Issue of _The Medley_ is now closed. The issue has been released. Submissions for the Sixth Isuue will open soon. Watch this page for further announcements.**
 
-![issue five](/assets/img/issue-5.jpg)
-
-For the Fifth Issue of The Medley, we are looking for themed works which examine various modes and roles of **DISSENT** in different arenas of our personal and public lives. Although societies form through some kind of majoritarianism, almost all developed nations have made protection of personal freedom and the right to dissent an essential component of their functioning, considering it exceedingly important for progress. Dissenting, however, has never come freely especially in our increasingly polarised modern world where differences are looked upon as threateningly alien. Dissent carries great personal cost but many individuals have readily paid that price over and over again throughout history. Art, and Literature  specifically, has always been conducive mediums for voicing dissent and we want to explore that relationship.
-
-**Non-themed submissions will also be accepted for this issue.**
+**The guidelines below provide basic information on submissions that may be accepted. Look for per issue announcement to learn more.**
 
 <hr>
 
