@@ -6,9 +6,7 @@ tags:
 
 ---
 
-**We are thrilled to inform you that we are opening the submission window for the Sixth Issue of _The Medley_, Ostraca’s bi-annual online literary journal, from 5 March 2021.**
-
-We wish to invite themed and non-themed entries for the sections of Fiction, Non-Fiction and Poetry. Photo Essays are also welcome.
+**We are thrilled to inform you that we are opening the submission window for the Sixth Issue of _The Medley_,  from 5 March 2021.**
 
 **For this issue, we are looking for themed works which negotiate the theme FRAGILE.**
 
