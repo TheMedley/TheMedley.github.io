@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Issue Four Masthead
-category: [issue4]
+title: Issue Five Masthead
+category: [issue5]
 author_profile: false
 read_time: false
 comments: false
