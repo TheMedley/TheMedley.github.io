@@ -6,7 +6,7 @@ tags:
 
 ---
 
-**We are thrilled to inform you that we are opening the submission window for the Sixth Issue of _The Medley_,  from 5 March 2021.**
+**The submission window for the Sixth Issue of _The Medley_,  has now been closed.**
 
 **For this issue, we are looking for themed works which negotiate the theme FRAGILE.**
 
