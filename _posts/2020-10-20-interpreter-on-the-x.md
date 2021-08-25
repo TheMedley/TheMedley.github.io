@@ -1,6 +1,6 @@
 ---
 title: Interpreter on the X
-author: Thomas R. Willemain
+author: Thomas Reed Willemain
 category: [issue5, fiction]
 ---
 

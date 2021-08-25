@@ -6,7 +6,15 @@ tags:
 
 ---
 
-**Submission Window for the Fifth Issue of _The Medley_ is now closed. The issue has been released. Submissions for the Sixth Isuue will open soon. Watch this page for further announcements.**
+**The submission window for the Sixth Issue of _The Medley_,  has now been closed.**
+
+**For this issue, we are looking for themed works which negotiate the theme FRAGILE.**
+
+Fragility is much beyond the delicate, the vulnerable. It finds its roots in gradual exposure and incessant blows, fighting which, one either becomes fragile or learns to be resilient. Therefore, besides the humane limiting space for vulnerability, resilience is the term that hides under the letters F.R.A.G.I.L.E.
+
+In the current scenario, anything and everything is fragile: our mental landscape, our emotional stability, the status quo, relationships, geo-politics, civil liberties, and the wider gamut of life itself. Just like a glass ornament that appears aesthetically fragile but when broken, is fatal, what can be a better way to explore and push the limits of fragility than through art, literature and writing ?
+
+**Non-themed submissions will also be accepted for the issue.**
 
 **The guidelines below provide basic information on submissions that may be accepted. Look for per issue announcement to learn more.**
 
@@ -25,7 +33,7 @@ We wish to invite themed as well as non-themed entries for the sections of Ficti
 
 3. The category of your work - fiction, non-fiction, poetry - has to be mentioned in the subject of the submission email. Also state whether your submission is themed or non-themed. Before you send work, please familiarize yourself with _The Medley_ and our editorial practices by going through our older issues available on the website.
 
-4. We allow only for previously unpublished works. You can send your entries to submissions[at]themedley[dot]in. We are open to simultaneous submissions (so long as you classify them as such and immediately let us know if they’re accepted elsewhere).
+4. We allow only for previously unpublished works. You can send your entries to [submissions[at]themedley[dot]in](mailto:submissions@themedley.in). We are open to simultaneous submissions (so long as you classify them as such and immediately let us know if they’re accepted elsewhere).
 
 5. Please submit no more than once per category per reading period. To put it simply, you can submit upto three poems, one fiction piece and/or one non-fiction for any particular issue when the submission window is open. Additional submissions will be ignored. If your work has been featured in _The Medley_ in the past, please wait at least half a year, or one issue, from the date of your publication before submitting again.
 

@@ -1,7 +1,13 @@
 ---
 layout: single
-title: Masthead
-permalink: /masthead/
+title: Issue Five Masthead
+category: [issue5]
+author_profile: false
+read_time: false
+comments: false
+share: true
+related: false
+
 classes: wide
 feature_row1:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/masthead/areeb1.jpg
