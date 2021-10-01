@@ -1,5 +1,5 @@
 ---
-titles: At the Animal Shelter After Dark, A View of the Pacific  
+title: At the Animal Shelter After Dark, A View of the Pacific  
 Author: William Doreski  
 category: [issue6, poetry]
 

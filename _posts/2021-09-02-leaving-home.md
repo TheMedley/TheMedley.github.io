@@ -1,5 +1,5 @@
 ---
-titles: Leaving Home, Submerged 
+title: Leaving Home, Submerged 
 author: Tiyasha Chaudhury
 category: [issue6, poetry] 
 
