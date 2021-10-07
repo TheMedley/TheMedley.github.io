@@ -1,6 +1,6 @@
 ---
 title: My Clarity 
-Author: L. Ward Abel 
+author: L. Ward Abel 
 category: [issue6, poetry]
 
 ---

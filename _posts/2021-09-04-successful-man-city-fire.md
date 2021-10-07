@@ -1,6 +1,6 @@
 ---
 title: A Successful Man, City Fire 
-Author: John Grey  
+author: John Grey  
 category: [issue6, poetry]
 
 ---
